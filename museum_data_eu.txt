@@ -1,0 +1,2768 @@
+Name: ["buddenbrookhaus"]
+Adresse: []
+Anderes: ["http://www.buddenbrookhaus.de/"]
+
+Name: ["watts gallery"]
+Adresse: ["compton"]
+Anderes: ["https://www.wattsgallery.org.uk/"]
+
+Name: ["moderna museet", "modern art museum", "moderna museet", "moderni museo", "musée d'art moderne", "музей современного искусства", "музей сучасного мистецтва"]
+Adresse: []
+Anderes: ["modern and contemporary art - pablo picasso, salvador dalí, henri matisse, meret oppenheim, robert rauschenberg, marcel duchamp, carolee schneemann, louise bourgeois, vera nilsson, siri derkert, georges braque (source: museum website)", "https://www.modernamuseet.se/"]
+
+Name: ["pitzhanger manor house and gallery"]
+Adresse: []
+Anderes: ["https://www.pitzhanger.org.uk/"]
+
+Name: ["museum krona"]
+Adresse: ["uden"]
+Anderes: ["https://www.museumkrona.nl"]
+
+Name: ["museum bleulandinum - anatomisch museum"]
+Adresse: []
+Anderes: ["https://www.umcutrecht.nl/nl/ontspanning"]
+
+Name: ["heiligen-geist-hospital"]
+Adresse: ["lübeck", "de"]
+Anderes: ["http://www.heiligen-geist-hospital.de/"]
+
+Name: ["bilderdijk museum"]
+Adresse: ["amsterdam"]
+Anderes: ["https://www.willembilderdijk.nl"]
+
+Name: ["det internasjonale barnekunstmuseet", "the international museum of children's art", "det internasjonale barnekunstmuseet"]
+Adresse: []
+Anderes: ["https://barnekunst.no/"]
+
+Name: ["museum flehite"]
+Adresse: ["amersfoort"]
+Anderes: ["https://museumflehite.nl/"]
+
+Name: ["naturhistoriska riksmuseet", "swedish museum of natural history", "museo sueco de historia natural", "valtion luonnonhistoriallinen museo", "muséum suédois d'histoire naturelle", "шведский музей естественной истории", "naturhistoriska riksmuseet"]
+Adresse: []
+Anderes: ["https://www.nrm.se/"]
+
+Name: ["städelsche kunstinstitut und städtische galerie", "städel museum", "슈타델 미술관", "施泰德藝術館"]
+Adresse: ["frankfurt am main"]
+Anderes: ["https://www.staedelmuseum.de/de"]
+
+Name: ["orangerimuseet", "kasvihuonemuseo", "orangerimuseet"]
+Adresse: []
+Anderes: ["https://www.nationalmuseum.se/sv/om-samlingarna1/nm-runt-om-i-sverige/ulriksdals-slott-med-orangerimuseet/"]
+
+Name: ["museum für angewandte kunst", "museum angewandte kunst", "museum für kunsthandwerk", "mak"]
+Adresse: ["frankfurt am main"]
+Anderes: ["http://www.museumangewandtekunst.de/"]
+
+Name: ["ahm", "amsterdam museum", "amsterdam museum", "museo de historia de la ciudad", "амстердамский исторический музей", "阿姆斯特丹博物館", "amsterdams historisch museum"]
+Adresse: ["amsterdam", "nl"]
+Anderes: ["http://www.amsterdammuseum.nl/", "https://www.amsterdammuseum.nl/"]
+
+Name: ["foam", "荷兰摄影博物馆"]
+Adresse: ["amsterdam", "nl"]
+Anderes: ["https://www.foam.org/"]
+
+Name: ["museum im storchen"]
+Adresse: ["göppingen"]
+Anderes: ["https://www.goeppingen.de/,lde/start/kultur/museum+im+storchen.html"]
+
+Name: ["venustempel sexmuseum", "sexmuseum", "מוזיאון הסקס", "venustempel sexmuseum", "музей секса", "性博物館"]
+Adresse: ["amsterdam", "nl"]
+Anderes: ["https://sexmuseumamsterdam.nl/"]
+
+Name: ["musée des arts décoratifs - musée de la publicité", "музей декоративного искусства"]
+Adresse: []
+Anderes: ["https://madparis.fr/musee-des-arts-decoratifs"]
+
+Name: ["museum des blindenwesens", "museum of blindness"]
+Adresse: ["wien", "at"]
+Anderes: ["guided tours by appointment. development of teaching and learning aids for teaching blind people. (source: museum website)", "https://www.bbi.at/museum"]
+
+Name: ["lutherhaus"]
+Adresse: ["de"]
+Anderes: ["http://lutherhaus-eisenach.de"]
+
+Name: ["museum kunstpalast", "музей кунстпаласт", "museum kunst palast"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.kunstpalast.de/"]
+
+Name: ["the type museum"]
+Adresse: ["london"]
+Anderes: ["http://www.typearchive.org/"]
+
+Name: ["heidemuseum dat ole hus"]
+Adresse: ["bispingen", "de"]
+Anderes: ["https://www.verein-naturschutzpark.de/heidemuseum-wilsede.htm"]
+
+Name: ["bischöfliches dom- und diözesanmuseum mainz"]
+Adresse: ["mainz"]
+Anderes: ["https://commons.wikimedia.org/wiki/file:kreuzgang_mainzer_dom.jpg", "https://www.dommuseum-mainz.de/"]
+
+Name: ["musée de la libération"]
+Adresse: []
+Anderes: ["https://www.cherbourg.fr/infos-services/culture-et-loisirs/musees/musee-de-la-liberation-321.html"]
+
+Name: ["stedelijk museum schiedam"]
+Adresse: []
+Anderes: ["https://www.stedelijkmuseumschiedam.nl/"]
+
+Name: ["halloren schokoladenmuseum"]
+Adresse: ["halle (saale)", "de"]
+Anderes: ["https://www.halloren.de/"]
+
+Name: ["calke abbey"]
+Adresse: ["derby"]
+Anderes: ["https://www.nationaltrust.org.uk/calke-abbey"]
+
+Name: ["museum jan"]
+Adresse: []
+Anderes: ["https://museumjan.nl"]
+
+Name: ["hiltruper museum"]
+Adresse: ["münster", "de"]
+Anderes: ["+49 2501 1205", "https://www.hiltruper-museum.de/"]
+
+Name: ["museum land van valkenburg"]
+Adresse: ["valkenburg"]
+Anderes: ["https://www.museumlandvanvalkenburg.nl"]
+
+Name: ["museum langenargen"]
+Adresse: ["langenargen", "de"]
+Anderes: ["http://museum-langenargen.de"]
+
+Name: ["württembergisches landesmuseum"]
+Adresse: []
+Anderes: ["https://www.landesmuseum-stuttgart.de/"]
+
+Name: ["schlossmuseum jever"]
+Adresse: []
+Anderes: ["http://upload.wikimedia.org/wikipedia/commons/5/50/schlossjeverhoffassade.jpg", "https://www.schlossmuseum.de/"]
+
+Name: ["erddig hall", "neuadd erddig", "erddig hall"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/erddig"]
+
+Name: ["frans halsmuseum", "frans hals museum", "museo frans hals", "frans hals museum", "музей франса галса"]
+Adresse: ["haarlem"]
+Anderes: ["https://www.franshalsmuseum.nl/"]
+
+Name: ["rembrandthuis", "rembrandt-museet", "rembrandthaus", "rembrandt house", "rembrandthaus", "rembrandthuis", "дом-музей рембрандта", "музей рембрандта", "伦勃朗故居"]
+Adresse: ["amsterdam"]
+Anderes: ["https://www.rembrandthuis.nl/"]
+
+Name: ["stadtmuseum in der beschußanstalt"]
+Adresse: ["zella-mehlis"]
+Anderes: ["https://museum.gumv.de/"]
+
+Name: ["bayerisches nationalmuseum", "bayerisches nationalmuseum", "museo nacional bávaro", "баварский национальный музей", "巴伐利亞博物館"]
+Adresse: ["münchen"]
+Anderes: ["https://www.bayerisches-nationalmuseum.de/"]
+
+Name: ["bolling hall museum"]
+Adresse: ["bradford"]
+Anderes: ["https://bradfordmuseums.org/bolling-hall-museum-library/"]
+
+Name: ["museo degli strumenti per il calcolo"]
+Adresse: []
+Anderes: ["https://www.msc.sma.unipi.it"]
+
+Name: ["museum der stadt alfeld - lateinschule"]
+Adresse: ["alfeld (leine)"]
+Anderes: ["https://www.alt-alfeld.de/alt-alfelder-bauten/a-e/alte-lateinschule/"]
+
+Name: ["bayerisches eisenbahnmuseum"]
+Adresse: ["nördlingen", "de"]
+Anderes: ["https://bayerisches-eisenbahnmuseum.de/"]
+
+Name: ["musée de la ville de vianden et du jouet"]
+Adresse: []
+Anderes: ["https://www.visit-vianden.lu/de/kultur-freizeit/museen-kultur"]
+
+Name: ["spicy's gewürzmuseum"]
+Adresse: ["hamburg", "de"]
+Anderes: ["https://www.spicys.de"]
+
+Name: ["museum fluxus+"]
+Adresse: ["potsdam", "de"]
+Anderes: ["https://www.fluxus-plus.de/"]
+
+Name: ["museo bellas artes gravina", "mubag"]
+Adresse: ["alicante/alacant"]
+Anderes: ["https://www.mubag.es/"]
+
+Name: ["museum de pont"]
+Adresse: ["tilburg"]
+Anderes: ["https://depont.nl"]
+
+Name: ["residenzmuseum", "residenzmuseum und schatzkammer", "residence museum and treasury", "museo della residenz e tesoro", "慕尼黑寶物館"]
+Adresse: ["münchen", "de"]
+Anderes: ["https://www.residenz-muenchen.de/"]
+
+Name: ["stadsmuseet i stockholm", "stockholm city museum", "tukholman kaupunginmuseo", "городской музей", "stadsmuseet i stockholm"]
+Adresse: []
+Anderes: ["https://stadsmuseet.stockholm/"]
+
+Name: ["zentrum paul klee", "パウル・クレー・センター", "центр пауля клее"]
+Adresse: ["bern", "ch"]
+Anderes: ["info@zpk.org", "zentrumpaulklee", "+41 31 3590102", "zentrumpaulklee", "+41 31 3590101", "zentrumpaulklee", "https://www.zpk.org/"]
+
+Name: ["museum dr. guislain"]
+Adresse: []
+Anderes: ["https://www.museumdrguislain.be/"]
+
+Name: ["frans hals museum hal"]
+Adresse: ["haarlem"]
+Anderes: ["meet@franshalsmuseum.nl", "+31 23 511 5775", "https://www.franshalsmuseum.nl/"]
+
+Name: ["king john's hunting lodge;king john's hunting lodge (axbridge museum)"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/king-johns-hunting-lodge"]
+
+Name: ["deutschlandmuseum"]
+Adresse: ["berlin"]
+Anderes: ["https://www.deutschlandmuseum.de/"]
+
+Name: ["musée art & histoire - museum kunst & geschiedenis", "art & history museum", "musée art & histoire", "museum kunst & geschiedenis"]
+Adresse: []
+Anderes: ["https://www.artandhistory.museum/"]
+
+Name: ["uhrenhof"]
+Adresse: ["olbersdorf", "de"]
+Anderes: ["https://www.olbersdorf.de/index.php/uhrenhof"]
+
+Name: ["fahrzeug-museum"]
+Adresse: []
+Anderes: ["https://www.fahrzeug-museum.ch/"]
+
+Name: ["lizard wireless station"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/lizard-point/features/marconi-on-the-lizard"]
+
+Name: ["museo civico e pinacotaca crociani"]
+Adresse: ["montepulciano", "it"]
+Anderes: ["civico.museo@libero.it", "+39 0578 717300", "https://www.museocivicomontepulciano.it/it/contatti", "https://www.museocivicomontepulciano.it/it/"]
+
+Name: ["spielzeugmuseum"]
+Adresse: []
+Anderes: ["http://www.usedom-spielzeugmuseum.de/"]
+
+Name: ["enthüllt. berlin und seine denkmäler"]
+Adresse: ["berlin", "de"]
+Anderes: ["in der spandauer zitadelle gibt es führungen für blinde und sehgeschädigte, siehe http://www.absv.de/freizeit/verteidigungsgaenge.htm .", "https://www.zitadelle-berlin.de/museen/enthullt/"]
+
+Name: ["краеведческий музей"]
+Adresse: []
+Anderes: ["https://novgorodmuseum.ru/"]
+
+Name: ["theatermuseum"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.duesseldorf.de/theatermuseum/index.shtml"]
+
+Name: ["medelhavsmuseet", "museum of mediterranean & near east antiquities", "välimerimuseo", "medelhavsmuseet"]
+Adresse: []
+Anderes: ["https://www.medelhavsmuseet.se/"]
+
+Name: ["radiomuseum"]
+Adresse: ["waldbronn"]
+Anderes: ["+49 7243 609180", "https://www.albtal-tourismus.de/attraktion/radiomuseum-4be9ecf90e"]
+
+Name: ["stiftsbibliothek admont"]
+Adresse: []
+Anderes: ["https://www.stiftadmont.at/"]
+
+Name: ["kunstmuseum luzern"]
+Adresse: ["luzern"]
+Anderes: ["https://www.kunstmuseumluzern.ch/"]
+
+Name: ["musée thomas henry", "musée thomas-henry"]
+Adresse: []
+Anderes: ["https://www.cherbourg.fr/infos-services/culture-et-loisirs/musees/musee-thomas-henry-318.html"]
+
+Name: ["städtische galerie"]
+Adresse: []
+Anderes: ["https://www.pforzheim.de/kultur/museen-ausstellungsorte/pforzheim-galerie.html"]
+
+Name: ["hohler fels"]
+Adresse: []
+Anderes: ["http://www.museum-schelklingen.de/hohle-fels"]
+
+Name: ["württembergischer kunstverein", "wkv"]
+Adresse: ["stuttgart"]
+Anderes: ["https://www.wkv-stuttgart.de/kontakt/", "https://www.wkv-stuttgart.de/"]
+
+Name: ["south shields museum & art gallery"]
+Adresse: ["south shields"]
+Anderes: ["https://southshieldsmuseum.org.uk/"]
+
+Name: ["museum johannes reuchlin"]
+Adresse: ["pforzheim"]
+Anderes: ["https://www.pforzheim.de/mjr"]
+
+Name: ["archiv und bibliothek des filmmuseums"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.duesseldorf.de/filmmuseum/archive.html"]
+
+Name: ["groam house museum"]
+Adresse: []
+Anderes: ["https://groamhouse.org.uk/"]
+
+Name: ["lvr-industriemuseum papiermühle alte dombach"]
+Adresse: ["bergisch gladbach"]
+Anderes: ["https://industriemuseum.lvr.de/de/die_museen/bergisch_gladbach/papiermuehle_alte_dombach.html"]
+
+Name: ["levant mine and beam engine"]
+Adresse: ["pendeen", "gb"]
+Anderes: ["https://www.nationaltrust.org.uk/levant-mine-and-beam-engine"]
+
+Name: ["lindisfarne priory & museum"]
+Adresse: ["berwick-upon-tweed"]
+Anderes: ["https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/"]
+
+Name: ["broken column"]
+Adresse: []
+Anderes: ["http://gardkarlsen.com/broken_column.htm"]
+
+Name: ["muzeum kouzlo starých časů", "old times museum", "museo de los viejos tiempos"]
+Adresse: ["praha"]
+Anderes: ["kouzlostarychcasu@gmail.com", "https://www.facebook.com/muzeumkouzlostarychcasu", "+420 723 960 308", "http://kouzlostarychcasu.com"]
+
+Name: ["bernardaud"]
+Adresse: []
+Anderes: ["https://www.bernardaud.com/"]
+
+Name: ["bergen lepramuseum", "bergen leprosy museum"]
+Adresse: []
+Anderes: ["https://www.bymuseet.no/?vis=80"]
+
+Name: ["gamle bergen", "old bergen"]
+Adresse: []
+Anderes: ["https://www.bymuseet.no/?vis=79"]
+
+Name: ["hordamuseet"]
+Adresse: []
+Anderes: ["https://www.bymuseet.no/?vis=249"]
+
+Name: ["amsterdam museum"]
+Adresse: ["amsterdam", "nl"]
+Anderes: ["https://www.amsterdammuseum.nl/"]
+
+Name: ["haus des waldes"]
+Adresse: ["haldensleben", "de"]
+Anderes: ["hausdeswaldes@lzw.mlu.sachsen-anhalt.de", "+49 3904 668757", "https://hausdeswaldes.sachsen-anhalt.de/"]
+
+Name: ["coldstream museum"]
+Adresse: ["coldstream"]
+Anderes: ["https://www.liveborders.org.uk/culture/museums/our-museums/coldstream-museum/"]
+
+Name: ["haus konstruktiv", "музей современного искусства haus konstruktiv", "结构主义艺术中心"]
+Adresse: ["zürich"]
+Anderes: ["https://hauskonstruktiv.ch/"]
+
+Name: ["weihnachtshaus husum"]
+Adresse: ["husum", "de"]
+Anderes: ["https://www.weihnachtshaus.info/"]
+
+Name: ["jan thorn prikker", "der tag"]
+Adresse: []
+Anderes: ["https://commons.wikimedia.org/wiki/file:museumkp12.jpg"]
+
+Name: ["cotehele quay discovery centre"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/cotehele/features/cotehele-quay"]
+
+Name: ["museum stift admont"]
+Adresse: []
+Anderes: ["https://www.stiftadmont.at/"]
+
+Name: ["nordwestdeutsches schulmuseum zetel-bohlenbergerfeld"]
+Adresse: []
+Anderes: ["https://www.schlossmuseum.de/schulmuseum/"]
+
+Name: ["the fan museum"]
+Adresse: ["london", "gb"]
+Anderes: ["thefanmuseum", "thefanmuseum", "thefanmuseum", "https://www.thefanmuseum.org.uk/"]
+
+Name: ["fondation maeght"]
+Adresse: []
+Anderes: ["https://www.fondation-maeght.com/"]
+
+Name: ["tattershall castle"]
+Adresse: ["tattershall", "gb"]
+Anderes: ["https://www.nationaltrust.org.uk/tattershall-castle"]
+
+Name: ["altensteiner höhle"]
+Adresse: []
+Anderes: ["https://www.bad-liebenstein.de/altensteiner-hoehle"]
+
+Name: ["domschatzkammer", "skarbiec katedralny w essen"]
+Adresse: ["essen"]
+Anderes: ["http://www.ruhr2010-barrierefrei.de/fileadmin/images/veranstaltungsort_sehenswuerdigkeiten/pdf_dokumente_abf/essen_domschatzkammer.pdf", "domschatz@bistum-essen.de", "+49 201 2204206", "https://domschatz-essen.de/", "ruhr2010-barrierefrei.de"]
+
+Name: ["adolf-dietrich-haus"]
+Adresse: ["berlingen am untersee", "ch"]
+Anderes: ["http://www.kunstraum-kreuzlingen.ch/ad_dietrich-haus.htm"]
+
+Name: ["rathausgalerie | kunsthalle"]
+Adresse: ["münchen", "de"]
+Anderes: ["https://www.muenchen.de/sehenswuerdigkeiten/museen/rathausgalerie"]
+
+Name: ["kunstarkaden"]
+Adresse: ["münchen", "de"]
+Anderes: ["https://www.muenchen.de/sehenswuerdigkeiten/kunstarkaden"]
+
+Name: ["schlossmuseum"]
+Adresse: ["oranienburg"]
+Anderes: ["https://www.spsg.de/index.php?id=129"]
+
+Name: ["dialog im dunkeln"]
+Adresse: ["hamburg", "de"]
+Anderes: ["http://www.dialog-im-dunkeln.de", "https://dialog-in-hamburg.de"]
+
+Name: ["zeughaus", "landeszeughaus", "landeszeughaus", "styrian armoury", "štīrijas arsenāls", "盔甲博物馆"]
+Adresse: ["graz", "at"]
+Anderes: ["landeszeughaus@museum-joanneum.at", "+43 316 8017-9810", "https://www.museum-joanneum.at/"]
+
+Name: ["dom-museum", "dom-museum bremen im st.petri-dom"]
+Adresse: ["bremen", "de"]
+Anderes: ["https://dommuseum-bremen.de/wp-content/uploads/silberraum-30x20cm-100dpi-img_4036.jpg", "https://www.dommuseum-bremen.de/"]
+
+Name: ["museu municipal de alcochete - núcleo de arte sacra"]
+Adresse: ["alcochete"]
+Anderes: ["https://www.cm-alcochete.pt/pages/205"]
+
+Name: ["napoleonic monument", "monumento napoleonico di rivoli veronese"]
+Adresse: []
+Anderes: ["https://ifortidirivoli.wordpress.com/2012/12/14/il-monumento-a-napoleone/"]
+
+Name: ["tabaksmuseum"]
+Adresse: []
+Anderes: ["https://www.nationaaltabaksmuseum.be/"]
+
+Name: ["národní galerie v praze - veletržní palác", "národní galerie v praze - veletržní palác", "nationalgalerie prag - messepalast", "national gallery in prague - trade fair palace", "ярмарочный дворец"]
+Adresse: ["praha 7"]
+Anderes: ["https://www.ngprague.cz/"]
+
+Name: ["das verborgene museum"]
+Adresse: []
+Anderes: ["https://www.dasverborgenemuseum.de/"]
+
+Name: ["colección david", "davids samling", "the david collection"]
+Adresse: []
+Anderes: ["https://www.davidmus.dk/"]
+
+Name: ["волжский историко-краеведческий музей"]
+Adresse: ["волжский"]
+Anderes: ["https://museum-vlz.ru/"]
+
+Name: ["museo archeologico nazionale di adria"]
+Adresse: ["adria"]
+Anderes: ["https://polomusealeveneto.beniculturali.it/musei/museo-archeologico-nazionale-di-adria"]
+
+Name: ["muzej prekinutih veza", "museum der zerbrochenen beziehungen", "museum of broken relationships", "musée des relations rompues", "музей розлучень"]
+Adresse: ["zagreb"]
+Anderes: ["https://brokenships.com/"]
+
+Name: ["grube messel besucherinformationszentrum"]
+Adresse: []
+Anderes: ["https://www.grube-messel.de/"]
+
+Name: ["musée d'art du valais"]
+Adresse: []
+Anderes: ["https://www.musees-valais.ch/musee-dart/presentation.html"]
+
+Name: ["queen's gallery"]
+Adresse: []
+Anderes: ["https://www.rct.uk/visit/the-queens-gallery-buckingham-palace"]
+
+Name: ["neues museum"]
+Adresse: ["nürnberg", "de"]
+Anderes: ["https://www.nmn.de/"]
+
+Name: ["filmmuseum"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.duesseldorf.de/filmmuseum"]
+
+Name: ["museum für zeit"]
+Adresse: ["rockenhausen"]
+Anderes: ["http://museum-fuer-zeit.de/", "http://www.museum-fuer-zeit.de/"]
+
+Name: ["gewerbemuseum"]
+Adresse: []
+Anderes: ["https://www.gewerbemuseum.ch/"]
+
+Name: ["stadtmuseum judenburg"]
+Adresse: ["judenburg", "at"]
+Anderes: ["+43 3572 85053", "https://www.judenburg.com/cms/stadtmuseum_judenburg.asp?n=13"]
+
+Name: ["musée bouilhet-christofle - musée d'orfèvrerie"]
+Adresse: ["paris"]
+Anderes: ["9", "+33 1 49 22 41 15", "75008", "rue royale", "https://www.christofle.com/"]
+
+Name: ["black box"]
+Adresse: ["düsseldorf", "de", "133"]
+Anderes: ["https://www.duesseldorf.de/filmmuseum/black-box.html"]
+
+Name: ["museum in der wartehalle"]
+Adresse: []
+Anderes: ["https://kult-our-tal-museum.de/"]
+
+Name: ["museum kloster banz"]
+Adresse: []
+Anderes: ["https://www.hss.de/museum-kloster-banz/"]
+
+Name: ["neues grünes gewölbe"]
+Adresse: []
+Anderes: ["https://gruenes-gewoelbe.skd.museum"]
+
+Name: ["talmuseum samnaun"]
+Adresse: ["samnaun-compatsch"]
+Anderes: ["https://www.graubuenden.ch/de/regionen-entdecken/engadin-samnaun-val-muestair/talmuseum-samnaun"]
+
+Name: ["universalmuseum joanneum - studienzentrum naturkunde", "studienzentrum naturkunde"]
+Adresse: ["graz", "at"]
+Anderes: ["https://www.museum-joanneum.at/naturkundemuseum/sammlungen-forschung"]
+
+Name: ["musée municipal", "musée urbain cabrol"]
+Adresse: ["villefranche-de-rouergue"]
+Anderes: ["https://villefranche-de-rouergue.fr/musee-urbain-cabrol-muc/"]
+
+Name: ["drammens museum"]
+Adresse: []
+Anderes: ["https://drammens.museum.no/"]
+
+Name: ["buchmuseum"]
+Adresse: []
+Anderes: ["https://www.slub-dresden.de/ueber-uns/buchmuseum/"]
+
+Name: ["museum für verhütung und schwangerschaftsabbruch", "museum of contraception and abortion"]
+Adresse: ["wien", "at"]
+Anderes: ["https://www.muvs.org/"]
+
+Name: ["brunei gallery"]
+Adresse: ["london"]
+Anderes: ["https://www.soas.ac.uk/gallery/"]
+
+Name: ["kahler berg, westhang"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["san gimignano 1300"]
+Adresse: []
+Anderes: ["+39 327 439 5165", "http://www.sangimignano1300.com/"]
+
+Name: ["muzeum regionalne w jaworze", "regionalmuseum", "muzeum regionalne w jaworze"]
+Adresse: []
+Anderes: ["http://www.muzeumjawor.pl"]
+
+Name: ["museo del santuario"]
+Adresse: []
+Anderes: ["http://www.santuariodisanvitolocapo.it/museo/museo.html", "datiopen.it - provincia regionale di trapani", "http://www.datiopen.it/it/data/musei_della_provincia_di_trapani"]
+
+Name: ["christliche kunst"]
+Adresse: []
+Anderes: ["http://www.christlichekunst-wb.de"]
+
+Name: ["am botanischen garten"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["fondation claude monet"]
+Adresse: ["giverny"]
+Anderes: ["https://fondation-monet.com/"]
+
+Name: ["fischer- und webermuseum"]
+Adresse: []
+Anderes: ["http://steinhudermuseen.wordpress.com/", "https://www.steinhuder-meer.de/meer-erleben/meer-kultur-erleben/steinhuder-museen"]
+
+Name: ["uhrenmuseum"]
+Adresse: ["berlin", "de"]
+Anderes: ["https://juwelier-lorenz.de/ueber-lorenz/uhrenmuseum/"]
+
+Name: ["nummernschildmuseum"]
+Adresse: []
+Anderes: ["http://www.nummernschildmuseum.de/"]
+
+Name: ["vogtturm museum"]
+Adresse: ["zell am see", "at"]
+Anderes: ["https://www.vogtturm.at"]
+
+Name: ["skärgårdsmuseet"]
+Adresse: ["stavsnäs", "se"]
+Anderes: ["https://www.skargardsmuseet.org/"]
+
+Name: []
+Adresse: []
+Anderes: ["http://www.elongated-coin.de/phpbb3/viewtopic.php?t=2485"]
+
+Name: ["electric ladyland"]
+Adresse: ["amsterdam"]
+Anderes: ["https://electricladyland.appointy.com/", "http://electric-lady-land.com/"]
+
+Name: ["donoper teich i"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["boer kip"]
+Adresse: ["zutphen"]
+Anderes: ["https://www.museumboerkip.nl"]
+
+Name: ["muzeul memorial \"aurel vlaicu\"", "\"aurel vlaicu\" memorial museum"]
+Adresse: ["aurel vlaicu"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "https://www.mcdr.ro/"]
+
+Name: ["kunsthaus shop"]
+Adresse: []
+Anderes: ["shop-kh@museum-joanneum.at", "+43 316 8017-9202", "https://www.museum-joanneum.at/kunsthaus-graz/ihr-besuch/shop"]
+
+Name: ["pantaleonsberg", "bronzezeit bayern museum"]
+Adresse: ["kranzberg", "de"]
+Anderes: ["https://bronzezeit-bayern-museum.de/de/home"]
+
+Name: ["музей искусства народов востока", "museum of oriental arts", "музей востока"]
+Adresse: []
+Anderes: ["https://ok.ru/orientmuseum", "@orientalmuseum", "https://www.vk.com/club51591430", "https://www.youtube.com/channel/ucvllhoj91lbrbjy_4eegk5g", "https://www.orientmuseum.ru"]
+
+Name: ["interkulturelt museum"]
+Adresse: []
+Anderes: ["https://www.oslomuseum.no/interkulturelt-museum/"]
+
+Name: ["bauernhausmuseum"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["národopisné muzeum - musaion", "národopisné muzeum - musaion", "ethnographical museum – musaion", "летний дворец кинских - этнографический музей"]
+Adresse: ["praha", "cz"]
+Anderes: ["https://www.nm.cz/"]
+
+Name: ["ochsenberg südhang"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["johann-strauß-wohnung", "johann strauss wohnung", "johann strauß lakása"]
+Adresse: ["wien", "at"]
+Anderes: ["waltz composer johann strauss lived here 7 years and composed \"the blue danube\" in 1867. (source: museum website)", "https://www.wienmuseum.at/"]
+
+Name: ["europos centro muziejus europos parkas", "europos centro muziejus europos parkas", "парк европы", "парк європи"]
+Adresse: ["joneikiškės"]
+Anderes: ["yes", "https://www.europosparkas.lt/"]
+
+Name: ["kit - kunst im tunnel"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.kunst-im-tunnel.de/"]
+
+Name: ["artothek"]
+Adresse: []
+Anderes: ["https://museenkoeln.de/artothek"]
+
+Name: ["brussels comics figurines museum", "moof-museum of original figurines"]
+Adresse: []
+Anderes: ["info@moof-museum.be", "+32 2 207 79 92", "https://www.brussels-comics-figurines-museum.be/"]
+
+Name: ["ар деко"]
+Adresse: []
+Anderes: ["https://www.facebook.com/artdecomuseum", "+7 495 6399492", "https://t.me/artdecomuseum", "http://artdecomuseum.ru/"]
+
+Name: ["ekspozycja muzealna \"węgrów - miasto wielu kultur i religii\""]
+Adresse: ["węgrów", "0975871"]
+Anderes: ["emuia.gugik.gov.pl", "http://www.klasztorwegrow.pl"]
+
+Name: ["forum am deutschen museum", "isarforum"]
+Adresse: ["münchen"]
+Anderes: ["https://www.deutsches-museum.de/forum-der-zukunft"]
+
+Name: ["museum ostdeutsche kulturgeschichte"]
+Adresse: []
+Anderes: ["+49 4403 4130", "https://www.bkge.de/heimatsammlungen/verzeichnis/ueberregional/bad-zwischenahn.php"]
+
+Name: ["kunstmuseum singen"]
+Adresse: ["singen (hohentwiel)", "de"]
+Anderes: ["kunstmuseum@singen.de", "10", "+49 7731 85-271", "78224", "ekkehardstraße", "https://www.kunstmuseum-singen.de"]
+
+Name: ["ludwig-ii-museum"]
+Adresse: []
+Anderes: ["https://www.herrenchiemsee.de/deutsch/n_schloss/l2mus.htm"]
+
+Name: ["kleines moormuseum"]
+Adresse: []
+Anderes: ["http://www.arge-kultur.at"]
+
+Name: ["the guards museum", "királyi testőrség múueuma"]
+Adresse: []
+Anderes: ["https://theguardsmuseum.com/"]
+
+Name: ["museo civico d'arte siamese stefano cardu"]
+Adresse: ["cagliari"]
+Anderes: ["https://sistemamuseale.museicivicicagliari.it/museo-darte-siamese/"]
+
+Name: ["hanf museum berlin", "musée du cannabis"]
+Adresse: ["berlin", "de"]
+Anderes: ["info@hanfmuseum.de", "+49 30 242 48 27", "https://www.hanfmuseum.de"]
+
+Name: ["museu eròtic de barcelona", "museu eròtic de barcelona", "erotic museum", "museo erótico de barcelona", "музей эротики"]
+Adresse: []
+Anderes: ["http://www.erotica-museum.com/"]
+
+Name: ["museu arpad szenes - vieira da silva"]
+Adresse: ["lisboa"]
+Anderes: ["fasvs@fasvs.pt", "+351 21 388 00 44", "www.fasvs.pt", "https://fasvs.pt/"]
+
+Name: ["villum window collection"]
+Adresse: []
+Anderes: ["https://en.villumwindowcollection.com/"]
+
+Name: ["potsdam und der 20. juli 1944", "potsdam and the 20th of july 1944", "potsdam en 20 juli 1944"]
+Adresse: []
+Anderes: ["https://www.potsdam-museum.de/ausstellung/potsdam-und-der-20juli-1944"]
+
+Name: ["potsdam museum - forum für kunst und geschichte", "potsdam museum"]
+Adresse: ["potsdam", "de"]
+Anderes: ["museum-geschichte@rathaus.potsdam.de", "https://www.facebook.com/potsdammuseum/", "+49 331 289 6868", "https://www.potsdam-museum.de/", "https://www.youtube.com/channel/ucvjp8tumrjaiq160rdbug0g"]
+
+Name: ["palazzo di città"]
+Adresse: ["cagliari"]
+Anderes: ["https://sistemamuseale.museicivicicagliari.it/palazzo-di-citta/"]
+
+Name: ["епископска базилика"]
+Adresse: []
+Anderes: ["https://www.plovdivmosaics.org/"]
+
+Name: ["muzej betinske drvene brodogradnje", "museum für holzschiffbau in betina", "museum of wooden shipbuilding in bettina"]
+Adresse: ["betina"]
+Anderes: ["muzej@mbdb.hr", "+385 22 434 105", "http://www.mbdb.hr/en/museum-of-betina-wooden-shipbuilding/"]
+
+Name: ["museo leonardo da vinci e archimede"]
+Adresse: []
+Anderes: ["https://www.archimededisiracusa.it/"]
+
+Name: ["magicum"]
+Adresse: []
+Anderes: ["https://www.magicum-berlin.de/"]
+
+Name: ["stiftsmuseum xanten"]
+Adresse: ["xanten"]
+Anderes: ["https://www.stiftsmuseum-xanten.de/"]
+
+Name: ["museo diocesano sezione dell’alta valle arroscia"]
+Adresse: ["pieve di teco"]
+Anderes: ["https://www.finestresullarte.info/musei/riapre-museo-diocesano-oratorio-della-ripa-di-pieve-di-teco", "https://www.formaelucis.com/museo-diocesano/onde-barocche-biglietti-orari-albenga-pieve-di-tec"]
+
+Name: ["museum de reede"]
+Adresse: []
+Anderes: ["https://museum-dereede.com/"]
+
+Name: ["musée le magasin (entrée du public)"]
+Adresse: []
+Anderes: ["http://www.magasin-cnac.org/"]
+
+Name: ["schlossmuseum"]
+Adresse: ["mannheim"]
+Anderes: ["https://www.schloss-mannheim.de/"]
+
+Name: ["saline conti vecchi"]
+Adresse: ["assemini"]
+Anderes: ["https://fondoambiente.it/luoghi/saline-conti-vecchi/visita", "https://fondoambiente.it/luoghi/saline-conti-vecchi"]
+
+Name: ["museo hermano revilla"]
+Adresse: ["villabellaco"]
+Anderes: ["https://www.youtube.com/watch?v=zp7bxqae7da", "https://museohr.com"]
+
+Name: ["porzellanium"]
+Adresse: ["triptis"]
+Anderes: ["+49 36482 884922", "https://eschenbachporzellan.de/porzellanium/werksverkauf.html", "https://eschenbachporzellan.de/porzellanium/museum-galerie.html"]
+
+Name: ["aquazoo"]
+Adresse: ["düsseldorf", "de"]
+Anderes: ["https://www.duesseldorf.de/aquazoo/"]
+
+Name: ["diva antwerp home of diamonds; diva diamantmuseum", "diva"]
+Adresse: []
+Anderes: ["https://www.divaantwerp.be"]
+
+Name: ["mediathek „haus der zähringer“"]
+Adresse: []
+Anderes: ["http://www.die-zaehringer.eu"]
+
+Name: ["palazzo soranzo van axel", "soranzo van axel museum"]
+Adresse: []
+Anderes: ["https://www.labiennale.org/en/noticeboard/275"]
+
+Name: ["museé visionnnaire"]
+Adresse: ["zürich", "ch"]
+Anderes: ["info@museevisionnaire.ch", "https://de-de.facebook.com/musee.visionnairemv/", "https://www.instagram.com/museevisionnaire/", "https://www.museevisionnaire.ch/", "https://www.museevisionnaire.ch/"]
+
+Name: ["museum modern art hünfeld"]
+Adresse: ["hünfeld"]
+Anderes: ["+49 6652 72433", "https://www.museum-modern.art/"]
+
+Name: ["museum arnhem"]
+Adresse: ["arnhem", "nl"]
+Anderes: ["https://www.museumarnhem.nl/"]
+
+Name: ["the clock tower"]
+Adresse: []
+Anderes: ["https://www.stalbansmuseums.org.uk/visit/clock-tower"]
+
+Name: ["fachbibliothek potsdam museum"]
+Adresse: []
+Anderes: ["museum-geschichte@rathaus.potsdam.de", "+49 331 289 6868", "https://www.potsdam-museum.de/"]
+
+Name: ["ecomuseo delle case di terra villa ficana"]
+Adresse: ["macerata"]
+Anderes: ["https://www.facebook.com/ecomuseovillaficana/", "https://www.ecomuseoficana.it/wp-content/uploads/borgo-villa-ficana-6.jpg", "https://www.ecomuseoficana.it/"]
+
+Name: ["galway arts centre"]
+Adresse: ["galway"]
+Anderes: ["https://www.galwayartscentre.ie/"]
+
+Name: ["frac bourgogne"]
+Adresse: []
+Anderes: ["http://www.frac-bourgogne.org/"]
+
+Name: ["oleana économusée"]
+Adresse: []
+Anderes: ["https://oleana.no"]
+
+Name: ["illuseum berlin"]
+Adresse: ["berlin", "de"]
+Anderes: ["info@illuseum-berlin.de", "https://www.illuseum-berlin.de"]
+
+Name: ["muzeum polskiej motoryzacji xx wieku „polska na kołach”"]
+Adresse: []
+Anderes: ["https://www.youtube.com/user/polskanakolach"]
+
+Name: ["erotic art museum"]
+Adresse: ["hamburg"]
+Anderes: ["https://erotic-art-museum.com/fuehrungen/", "https://erotic-art-museum.com/"]
+
+Name: ["musée du chapeau", "la chapellerie"]
+Adresse: ["chazelles-sur-lyon"]
+Anderes: ["http://www.museeduchapeau.com"]
+
+Name: ["thermes gallo-romains d'entrammes"]
+Adresse: []
+Anderes: ["https://www.laval-tourisme.com/en/local-heritage/les-thermes-gallo-romains-d-entrammes-235374"]
+
+Name: ["museo del olivo"]
+Adresse: []
+Anderes: ["https://www.facebook.com/centro-de-interpretaci%c3%b3n-museo-del-olivo-montefr%c3%ado-208628230042119/", "https://museoolivomontefrio.com/"]
+
+Name: ["café im augustinermuseum"]
+Adresse: ["freiburg im breisgau"]
+Anderes: ["https://www.freiburg.de/pb/,lde/237748.html"]
+
+Name: ["klottje huus"]
+Adresse: ["leer (ostfriesland)", "de"]
+Anderes: ["http://www.heimatmuseum-leer.de/"]
+
+Name: ["музей теней", "shadow museum", "музей теней"]
+Adresse: []
+Anderes: ["shadowmuseum", "https://shadowmuseum.ru/"]
+
+Name: ["landesmuseum"]
+Adresse: []
+Anderes: ["https://www.publibike.ch/"]
+
+Name: ["museo degli strumenti di fisica", "vecchi macelli"]
+Adresse: []
+Anderes: ["https://www.msf.sma.unipi.it/"]
+
+Name: ["collezione civica d'arte palazzo vittone"]
+Adresse: ["pinerolo"]
+Anderes: ["https://www.comune.pinerolo.to.it/web/index.php/servizi/aree-tematiche/arte-e-cultura/33-musei/83-collezione-civica-d-arte-di-palazzo-vittone"]
+
+Name: ["museo d’arte contemporanea internazionale senza tendenze", "macist"]
+Adresse: ["biella"]
+Anderes: ["11", "13900", "costa di riva", "http://www.macist.it"]
+
+Name: ["museo e tesoro della cattedrale"]
+Adresse: ["bergamo"]
+Anderes: ["+39 035 219893", "https://www.fondazionebernareggi.it/it/museo-della-cattedrale/presentazione"]
+
+Name: ["étienne-martin", "demeure miroir n°10"]
+Adresse: []
+Anderes: ["http://publicartmuseum.net/wiki/demeure_miroir_n%c2%b0_10_(etienne-martin)"]
+
+Name: ["royal academy of music", "royal academy of music museum"]
+Adresse: ["london"]
+Anderes: ["https://www.ram.ac.uk/museum"]
+
+Name: ["museo civico archeologico"]
+Adresse: ["angera"]
+Anderes: ["https://www.angera.it/it/esplora/luoghi/civico-museo-archeologico"]
+
+Name: ["museo di arte religiosa alpina"]
+Adresse: ["novalesa"]
+Anderes: ["http://www.centroculturalediocesano.it/museo-di-novalesa.html"]
+
+Name: ["colecția muzeală a mănăstirii moldovița", "moldovița monastery museum collection", "colecția muzeală a mănăstirii moldovița"]
+Adresse: []
+Anderes: ["https://www.crestinortodox.ro/biserici-manastiri/manastirea-sucevita-67947.html"]
+
+Name: ["museo tipografico rondani"]
+Adresse: ["carmagnola"]
+Anderes: ["https://museotipograficorondani.it"]
+
+Name: ["museo di santa giulia"]
+Adresse: []
+Anderes: ["https://www.bresciamusei.com/santagiulia.asp"]
+
+Name: ["ulrich brüschke", "0° breite"]
+Adresse: []
+Anderes: ["https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0deg-breite-modified-cellular-towers"]
+
+Name: ["casa muzeu dr ioan mihalyi de apsa galeriile de arta", "house-museum “dr. ioan mihalyi de apsa”, art gallery"]
+Adresse: []
+Anderes: ["https://muzeulmaramuresului.ro/"]
+
+Name: ["ulrich brüschke", "0° breite"]
+Adresse: []
+Anderes: ["https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0deg-breite-modified-cellular-towers"]
+
+Name: ["muzeul etnografic al maramuresului", "ethnographic museum of maramures"]
+Adresse: []
+Anderes: ["https://muzeulmaramuresului.ro/"]
+
+Name: ["museum huelsmann"]
+Adresse: ["bielefeld", "de"]
+Anderes: ["https://www.museumhuelsmann.de/"]
+
+Name: ["forum frohner"]
+Adresse: ["krems an der donau", "at"]
+Anderes: ["https://www.forum-frohner.at/"]
+
+Name: ["museo galleria del premio suzzara"]
+Adresse: ["suzzara"]
+Anderes: ["http://www.premiosuzzara.it"]
+
+Name: []
+Adresse: ["dundee"]
+Anderes: ["https://www.leisureandculturedundee.com/culture/broughty-castle"]
+
+Name: []
+Adresse: ["hüfingen"]
+Anderes: ["https://www.stadtmuseumhuefingen.de/informationen/impressum/"]
+
+Name: ["fluctuart"]
+Adresse: []
+Anderes: ["https://fluctuart.fr/"]
+
+Name: ["retromuseum"]
+Adresse: []
+Anderes: ["http://www.retromuseum.cz/"]
+
+Name: ["maxxi l'aquila"]
+Adresse: ["l'aquila"]
+Anderes: ["https://www.facebook.com/museomaxxi/", "https://www.instagram.com/maxxilaquila/", "https://twitter.com/museo_maxxi", "https://www.youtube.com/user/museomaxxi", "online tickets: https://articketing.vocces.com/maxxi-aquila/", "https://www.laquilablog.it/maxxi-laquila-si-parte-davvero-il-28-maggio-inaugurazione-con-franceschini/", "https://maxxilaquila.art"]
+
+Name: ["villa fogazzaro roi"]
+Adresse: ["valsolda"]
+Anderes: ["https://www.fondoambiente.it/luoghi/villa-fogazzaro-roi"]
+
+Name: ["bünda-sport"]
+Adresse: ["davos", "ch"]
+Anderes: ["https://www.buendasport.ch/"]
+
+Name: ["abgußsammlung", "abguss-sammlung antiker plastik"]
+Adresse: ["berlin", "de"]
+Anderes: ["https://abguss-sammlung-berlin.de/"]
+
+Name: ["museo diocesano di fossano"]
+Adresse: ["fossano"]
+Anderes: ["http://www.diocesifossano.org/istituzioni/museo-diocesano/"]
+
+Name: ["museo de las tres culturas"]
+Adresse: []
+Anderes: ["https://www.laespiral.es/"]
+
+Name: ["louwman museum"]
+Adresse: ["'s-gravenhage", "nl"]
+Anderes: ["https://www.louwmanmuseum.nl/"]
+
+Name: ["museo di santa giuseppina bakhita"]
+Adresse: ["schio"]
+Anderes: ["https://www.beniculturali.it/luogo/museo-di-santa-giuseppina-bakhita"]
+
+Name: ["museo nazionale di archeologia del mare"]
+Adresse: ["caorle"]
+Anderes: ["https://polomusealeveneto.beniculturali.it/musei/museo-nazionale-di-archeologia-del-mare"]
+
+Name: ["wickern"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["replica cueva covaciella"]
+Adresse: ["carreña"]
+Anderes: ["https://artepaleoliticoenasturias.com/equipamientos/centro-de-interpretacion-de-la-covaciella/"]
+
+Name: ["adenauerplatz"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["nsg hühnermoor"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["lutterstrang"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["klosterstr./klosterhof"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["consorcio museo etnográfico extremeño \"gonzález santana\""]
+Adresse: []
+Anderes: ["https://museodeolivenza.com/"]
+
+Name: ["sommertheater"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["willy-brandt-platz"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["fundación nmac", "nmac foundation", "fundação nmac"]
+Adresse: []
+Anderes: ["https://fundacionnmac.org/es/"]
+
+Name: ["den illegale presse 1940-45"]
+Adresse: []
+Anderes: ["https://digitaltmuseum.no/011022720331/minnesmerke-illegal-presse-1940-45"]
+
+Name: ["museo archeologico nazionale di verona", "musée archéologique national de vérone"]
+Adresse: ["verona"]
+Anderes: ["https://www.larena.it/argomenti/cultura/verona-capitale-dell-archeologia-apre-il-museo-nazionale-in-via-san-tomaso-1.9191779", "https://www.beniculturali.it/luogo/museo-archeologico-nazionale-di-verona"]
+
+Name: ["poliankovo"]
+Adresse: []
+Anderes: ["user note and website", "https://www.poliankovo.sk/"]
+
+Name: ["the cartoon museum"]
+Adresse: ["london"]
+Anderes: ["https://www.cartoonmuseum.org"]
+
+Name: ["museo provincial"]
+Adresse: ["teruel"]
+Anderes: ["https://www.museodeteruel.es/el-museo/", "https://www.museodeteruel.es"]
+
+Name: ["paul ege art collection", "peac museum"]
+Adresse: []
+Anderes: ["ege.stiftung@peac.digital", "https://www.facebook.com/paulegeartcollection", "+49 761 5106609", "https://www.instagram.com/peac.digital/", "+49 761 5106606", "https://www.peac.digital"]
+
+Name: []
+Adresse: []
+Anderes: ["https://flic.kr/p/2jhrcuh"]
+
+Name: ["музей мертвых кукол"]
+Adresse: []
+Anderes: ["+7 995 1166611", "https://dead-dolls.museum/"]
+
+Name: []
+Adresse: ["cottbus", "de"]
+Anderes: ["https://www.blmk.de/museum/cafe/"]
+
+Name: ["peter coke shell gallery"]
+Adresse: []
+Anderes: ["https://sheringhamsociety.com/peter-coke-shell-gallery/"]
+
+Name: ["museo del gioiello", "museo de la joyeria"]
+Adresse: []
+Anderes: ["https://www.museodelgioiello.it/"]
+
+Name: ["museo diocesano di arte sacra \"g. tarantini\""]
+Adresse: ["ostuni"]
+Anderes: ["http://cartapulia.it/dettaglio?id=133199"]
+
+Name: ["museum of the battle of the bulge"]
+Adresse: []
+Anderes: ["https://www.wiltz.lu/de/tourismus/kultur-kunst/museen-2"]
+
+Name: ["national tannery museum", "gerbereimuseum"]
+Adresse: []
+Anderes: ["https://www.wiltz.lu/de/tourismus/kultur-kunst/museen-2"]
+
+Name: ["galeria da biodiversidade", "galeria da biodiversidade - centro ciência viva - museu de história natural e da ciência da universidade do porto"]
+Adresse: ["porto"]
+Anderes: ["https://mhnc.up.pt/galeria-da-biodiversidade/", "https://mhnc.up.pt/galeria-da-biodiversidade/"]
+
+Name: ["stiftung preussische schlösser und gärten berlin-brandenburg", "spsg"]
+Adresse: ["potsdam", "de"]
+Anderes: ["pressereferat@spsg.de", "https://www.facebook.com/spsgmuseum/", "https://www.instagram.com/spsgmuseum/", "+49 331 969 40", "https://twitter.com/spsgmuseum", "https://www.spsg.de/", "https://www.youtube.com/user/spsgkanal"]
+
+Name: ["museum of zoology"]
+Adresse: ["cambridge"]
+Anderes: ["https://www.museum.zoo.cam.ac.uk/"]
+
+Name: ["stranraer museum"]
+Adresse: ["stranraer"]
+Anderes: ["https://www.facebook.com/stranraer-museum-340479356058406/", "https://www.dgculture.co.uk/venue/stranraer-museum/"]
+
+Name: ["fonds hélène et édouard leclerc", "fonds hélène & édouard leclerc pour la culture", "kef hélène & édouard leclerc", "fhel", "sign"]
+Adresse: []
+Anderes: ["https://www.fonds-culturel-leclerc.fr/"]
+
+Name: ["mcc museum and tour"]
+Adresse: []
+Anderes: ["https://www.lords.org/lords/lord-s-experience/tours"]
+
+Name: ["wellington mill", "hat works"]
+Adresse: ["stockport"]
+Anderes: ["https://www.stockport.gov.uk/topic/hat-works"]
+
+Name: ["johannistal/ostwestfalendamm"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["tränenpalast"]
+Adresse: ["berlin", "de"]
+Anderes: ["+49 30 467777911", "https://www.hdg.de/traenenpalast/"]
+
+Name: ["brüder grimm-haus;brüder-grimm-haus", "brüder grimm-haus steinau"]
+Adresse: ["steinau an der straße"]
+Anderes: ["https://www.brueder-grimm-haus.de/"]
+
+Name: ["irish museum of time", "irish museum of time"]
+Adresse: []
+Anderes: ["https://www.waterfordtreasures.com/irish-museum-of-time"]
+
+Name: ["musée arcabas en chartreuse"]
+Adresse: []
+Anderes: ["+33 4 76 88 65 01", "https://musees.isere.fr/musee/musee-arcabas-en-chartreuse"]
+
+Name: ["fritz szalinski"]
+Adresse: []
+Anderes: ["https://flic.kr/p/2mnvr8p"]
+
+Name: ["musée de la faïence"]
+Adresse: ["moustiers-sainte-marie"]
+Anderes: ["https://www.musee-moustiers.fr/"]
+
+Name: ["hünenring"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["museum blau"]
+Adresse: ["schwetzingen"]
+Anderes: ["https://museumblau.de/"]
+
+Name: ["ordrupgaard"]
+Adresse: []
+Anderes: ["https://www.ordrupgaard.dk"]
+
+Name: ["rustpunt streekmuseum vredegoed"]
+Adresse: []
+Anderes: ["https://www.rustpunt.nu/", "https://www.rustpunt.nu/poi/?p_id=1826", "https://www.vredegoed.nl"]
+
+Name: ["little free library"]
+Adresse: []
+Anderes: ["https://www.carnegiebirthplace.com/little-library"]
+
+Name: ["museu de cera de fátima", "panoptikum"]
+Adresse: []
+Anderes: ["https://www.mucefa.pt/"]
+
+Name: ["musée de faykod", "de faykod múzeum"]
+Adresse: []
+Anderes: ["musée-de-faykod-124600940883356", "http://www.musee-de-faykod.com/"]
+
+Name: ["quartier libre services industriels de genève", "quartier libre sig"]
+Adresse: ["genève"]
+Anderes: ["https://ww2.sig-ge.ch/a-propos-de-sig/nous-connaitre/sites_expositions/quartier-libre-pont-de-la-machine"]
+
+Name: ["margaretha-reichardt-haus"]
+Adresse: ["erfurt", "de"]
+Anderes: ["https://kunstmuseen.erfurt.de/km/de/angermuseum/haus/margaretha_reichardt_haus/index.html"]
+
+Name: ["bauernhausmuseum südwest"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["gallerie d'italia"]
+Adresse: ["torino"]
+Anderes: ["https://www.lastampa.it/torino/2022/03/15/news/gallerie_d_italia_dal_17_maggio_torino_avra_un_nuovo_museo_ecco_come_sara_-2874474/"]
+
+Name: ["museumbickel"]
+Adresse: []
+Anderes: ["https://www.museumbickel.ch/"]
+
+Name: ["medizinhistorisches museum köln"]
+Adresse: []
+Anderes: ["https://medizinmuseum.cologne/"]
+
+Name: ["schichtwerk"]
+Adresse: []
+Anderes: ["https://schichtwerk-gilching.de/"]
+
+Name: ["museumscafé börry"]
+Adresse: ["emmerthal"]
+Anderes: ["http://www.museumscafe-boerry.de/"]
+
+Name: ["moco museum", "moco museum", "moco museum"]
+Adresse: ["barcelona"]
+Anderes: ["https://mocomuseum.com/"]
+
+Name: ["the world of banksy", "musée banksy - banksy museum", "musée banksy", "banksy museum"]
+Adresse: []
+Anderes: ["https://theworldofbanksy.be/"]
+
+Name: ["geilston garden", "geilston garden"]
+Adresse: ["cardoss"]
+Anderes: ["https://www.nts.org.uk/visit/places/geilston-garden"]
+
+Name: ["torfmuseum"]
+Adresse: []
+Anderes: ["http://www.torfkopp-museum.de/index.html"]
+
+Name: ["regionalna izba pamięci"]
+Adresse: ["kąty wrocławskie", "0987124"]
+Anderes: ["+48 662 173 088", "emuia.gugik.gov.pl", "http://www.smzk.katywroclawskie.com"]
+
+Name: ["national museum in warsaw", "muzeum narodowe w warszawie", "nationalmuseum in warschau", "national museum in warsaw", "museo nacional en varsovia", "muzeum narodowe w warszawie", "национальный музей"]
+Adresse: []
+Anderes: ["yes", "https://www.mnw.art.pl/"]
+
+Name: ["theres-neumann-museum"]
+Adresse: ["konnersreuth"]
+Anderes: ["https://www.theres-neumann-museum.de/"]
+
+Name: ["росизо"]
+Adresse: []
+Anderes: ["https://rosizo.ru/"]
+
+Name: ["chester beatty library", "chester beatty library", "leabharlann chester beatty", "체스터 비티 도서관", "army ordnance office"]
+Adresse: ["dublin"]
+Anderes: ["chesterbeattydublin", "chester_beatty_dublin", "+353 1 4070750", "214878", "cbl_dublin", "https://chesterbeatty.ie", "https://www.youtube.com/user/chesterbeattylibrary"]
+
+Name: ["freibad werther"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["zob"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["gemeindehaus"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["eingang freibad"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["regionálna muzeálna expozícia jozefa mailátha"]
+Adresse: []
+Anderes: ["riaditel.kcmap@gmail.com", "+421 905 223 435", "https://www.kcmap.sk/regionalna-muzealna-expozicia-jozefa-mailatha"]
+
+Name: ["haus kunst mitte"]
+Adresse: ["berlin", "de"]
+Anderes: ["https://www.hauskunstmitte.de/"]
+
+Name: ["dornberger straße"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["bushaltestelle tierpark"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["p-johannisberg"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["tierpark olderdissen süd"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["deja vu muzeum", "deja vu museum", "deja vu museum"]
+Adresse: []
+Anderes: ["https://www.facebook.com/dejavumuzeum", "https://www.instagram.com/dejavumuzeum/", "https://www.linkedin.com/company/deja-vu-muzeum", "https://twitter.com/dejavumuzeum", "https://dejavumuzeum.pl/", "https://dejavumuzeum.pl/de/", "https://dejavumuzeum.pl/en/"]
+
+Name: ["muzej prigorja"]
+Adresse: ["sesvete"]
+Anderes: ["https://www.facebook.com/profile.php?id=100011824712652", "https://www.instagram.com/muzejprigorja/", "https://twitter.com/muzejprigorja", "https://www.youtube.com/channel/ucfxhiuvv6euk0j2lgxnmnva", "https://www.muzejprigorja.hr/"]
+
+Name: ["parkplatz donoper teich"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["haus werther"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["музей христианской культуры"]
+Adresse: []
+Anderes: ["+7 812 679 47 23", "https://t.me/museum_mhk", "museum_mhk", "https://mcc.spb.ru"]
+
+Name: ["musée art populaire"]
+Adresse: []
+Anderes: ["https://www.openstreetmap.org/note/2950884"]
+
+Name: ["cosmos muzeum"]
+Adresse: []
+Anderes: ["https://cosmosmuzeum.pl"]
+
+Name: ["stecklenbrink"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["centre d’art fantastique"]
+Adresse: []
+Anderes: ["https://www.facebook.com/museeartfantastiquebxl", "https://www.fantastic-museum.be/services/"]
+
+Name: ["lohmannshof"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["wertherstraße"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["grewenbrink"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de"]
+
+Name: ["muzeum w tykocinie", "muzeum kultury żydowskiej"]
+Adresse: ["tykocin"]
+Anderes: ["http://muzeum.bialystok.pl/muzeum-w-tykocinie/"]
+
+Name: ["museu da catedral – arte sacra"]
+Adresse: ["évora"]
+Anderes: ["https://www.cm-evora.pt/locais/catedral-de-evora/"]
+
+Name: ["flößermuseum lechbruck"]
+Adresse: []
+Anderes: ["https://floesser-lechbruck.de/"]
+
+Name: ["cité des climats et vins de bourgogne"]
+Adresse: ["beaune"]
+Anderes: ["https://www.cite-vins-bourgogne.fr/img/ccvb_logo.png", "https://cite-vins-bourgogne.fr/", "https://www.citeclimatsvins-bourgogne.com/la-cite-a-beaune/"]
+
+Name: ["heimatmuseum marienfeld"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["kloster marienfeld"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["museumcafé"]
+Adresse: []
+Anderes: ["https://www.markiezenhof.nl/ontdek-het-paleis/stadspaleis/museumcafe"]
+
+Name: ["philipp kömen"]
+Adresse: []
+Anderes: ["https://rp-online.de/nrw/staedte/moenchengladbach/graffiti-in-moenchengladbach-streetart-spaziergang-vorbei-an-joseph-beuys-und-guenter-netzer_aid-65090947"]
+
+Name: ["grand palais immersif"]
+Adresse: []
+Anderes: ["https://grandpalais-immersif.fr/"]
+
+Name: ["musée maria de faykod"]
+Adresse: []
+Anderes: ["contact@musee-de-faykod.com", "+33 4 94 70 03 94", "https://www.musee-de-faykod.com/"]
+
+Name: ["irish wake museum"]
+Adresse: ["waterford"]
+Anderes: ["https://www.waterfordtreasures.com/museum/irish-wake-museum/"]
+
+Name: ["galerija vžigalica"]
+Adresse: ["ljubljana"]
+Anderes: ["https://mgml.si/en/match-gallery"]
+
+Name: ["la casa delle marionette"]
+Adresse: []
+Anderes: ["https://casadellemarionette.com/"]
+
+Name: ["palaisstraße"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["schlossteich"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["palaisgarten"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["obere mühle"]
+Adresse: []
+Anderes: ["https://www.teutoburgerwald.de/"]
+
+Name: ["edifício histórico da reitoria da universidade do porto", "laboratório ferreira da silva", "ferreira da silva chemical laboratory"]
+Adresse: ["porto"]
+Anderes: ["https://mhnc.up.pt/laboratorio-ferreira-da-silva/"]
+
+Name: ["museo internazionale del tappeto antico - mita"]
+Adresse: ["brescia"]
+Anderes: ["https://www.finestresullarte.info/musei/brescia-nasce-mita-museo-internazionale-tappeto-antico"]
+
+Name: ["africashop"]
+Adresse: []
+Anderes: ["info@africamuseum.be", "+32 2 345 21 59", "https://www.africashop.be/"]
+
+Name: ["kunsthaus baselland"]
+Adresse: []
+Anderes: ["https://kunsthausbaselland.ch/"]
+
+Name: ["дверь в хогвартс"]
+Adresse: []
+Anderes: ["hogvarts.spb@gmail.com", "+7 917 3253234", "https://dver-v-hogvarts.ru/"]
+
+Name: ["magyar népi iparművészeti múzeum", "hungarian applied folk art museum"]
+Adresse: []
+Anderes: ["muzeum@hagyomanyokhaza.hu", "https://www.facebook.com/hagyomanyokhaza", "+36 1 225 6015", "https://hagyomanyokhaza.hu/hu/muzeum"]
+
+Name: ["museo civico archeologico di noto", "mucian"]
+Adresse: []
+Anderes: ["https://www.museocivicoarcheologiconoto.eu/"]
+
+Name: ["museo del deporte"]
+Adresse: ["santander"]
+Anderes: ["https://www.santander.es/servicios-ciudadano/areas-tematicas/museos-centros-culturales/museo-del-deporte"]
+
+Name: ["the hypocaust"]
+Adresse: []
+Anderes: ["https://www.stalbansmuseums.org.uk/visit/hypocaust", "https://www.stalbansmuseums.org.uk/visit/hypocaust"]
+
+Name: ["staatsoper hannover", "opernhaus", "opernhaus", "hanover opera house", "ópera de hanóver", "opéra de hanovre"]
+Adresse: ["hannover", "de"]
+Anderes: ["grundriss: https://architekturmuseum.ub.tu-berlin.de/index.php?p=51&o=166072", "https://denkmalatlas.niedersachsen.de/viewer/metadata/30738609/1/-/", "https://www.staatstheater-hannover.de/oper/"]
+
+Name: ["belvedere upper palace;美景宫上宫", "oberes belvedere", "oberes belvedere", "upper belvedere", "alto belvedere", "ベルヴェデーレ宮殿（上宮）", "верхний бельведер", "美景宫"]
+Adresse: []
+Anderes: ["https://www.belvedere.at/"]
+
+Name: ["georgenpalais;deutsches museum für karikatur und kritische grafik", "wallmodenpalais", "wilhelm-busch deutsches museum für karikatur und zeichenkunst", "q109540", "de:wilhelm busch", "wilhelm busch múzeum"]
+Adresse: ["hannover", "de"]
+Anderes: ["https://de-de.facebook.com/karikaturmuseum/", "https://www.karikatur-museum.de/"]
+
+Name: ["crystal palace museum"]
+Adresse: ["london"]
+Anderes: ["http://www.crystalpalacemuseum.org.uk/"]
+
+Name: ["schloß eggenberg", "eggenberg castle", "château d'eggenberg"]
+Adresse: []
+Anderes: ["https://www.museum-joanneum.at/schloss-eggenberg-prunkraeume-und-gaerten/gaerten"]
+
+Name: ["museum moderner kunst", "museum moderner kunst stiftung ludwig wien", "museo de arte moderno", "ルートヴィヒ財団近代美術館（mumok）", "현대미술관", "музей современного искусства", "mumok"]
+Adresse: ["wien", "at"]
+Anderes: ["+43 1 52500-0", "http://www.mumok.at/", "https://www.mumok.at/"]
+
+Name: ["lapidárium národního muzea", "lapidarium des nationalmuseums", "lapidary of the national museum", "лапидарий национального музея"]
+Adresse: ["praha", "cz"]
+Anderes: ["https://www.nm.cz/"]
+
+Name: ["national museum of scotland", "苏格兰国家博物馆"]
+Adresse: ["edinburgh"]
+Anderes: ["https://www.nms.ac.uk/scotland/"]
+
+Name: ["verulamium museum"]
+Adresse: ["st albans"]
+Anderes: ["https://www.stalbansmuseums.org.uk/visit/verulamium-museum"]
+
+Name: ["castle museum", "nottingham castle", "nottingham castle museum and gallery", "nottingham castle museum & art gallery", "nottingham castle", "nottingham castle museum and art gallery", "château de nottingham", "nottinghami vár", "kastalinn í nottingham", "castello di nottingham", "nottingham castle", "castelo de nottingham", "nottingham castle", "諾丁漢城"]
+Adresse: ["nottingham"]
+Anderes: ["https://historicengland.org.uk/etl/1271188/b8140d90-0dac-40eb-8d58-c8d369514571.jpg", "the he entry + highway register say this is on \"castle road\". the start_date refers to the reconstruction by tc hine following reform riot burning. see https://geoserver.nottinghamcity.gov.uk/streetregister/", "https://www.nottinghamcastle.org.uk/"]
+
+Name: ["christchurch mansion"]
+Adresse: []
+Anderes: ["https://ipswich.cimuseums.org.uk/visit/christchurch-mansion/"]
+
+Name: ["lessinghaus"]
+Adresse: ["wolfenbüttel", "de"]
+Anderes: ["https://denkmalatlas.niedersachsen.de/viewer/metadata/33870017/1/-/"]
+
+Name: ["naturkundemuseum"]
+Adresse: ["coburg", "de"]
+Anderes: ["https://de.wikipedia.org/wiki/datei:hofgartenmai_34.jpg", "http://www.naturkunde-museum-coburg.de/"]
+
+Name: ["villa lichtbogen"]
+Adresse: []
+Anderes: ["https://rp-online.de/nrw/staedte/goch/ein-neues-museum-in-uedemerbruch-im-trafoturm_aid-33181291"]
+
+Name: ["szépművészeti múzeum", "museum der bildenden künste", "museum of fine arts", "museo de bellas artes", "musée des beaux-arts de budapest", "museo di belle arti", "museu de belas artes", "музей изобразительных искусств", "美术馆"]
+Adresse: ["budapest"]
+Anderes: ["https://www.facebook.com/szepmuveszeti", "https://www.szepmuveszeti.hu/"]
+
+Name: ["prinzenpalais"]
+Adresse: ["oldenburg", "de"]
+Anderes: ["https://denkmalatlas.niedersachsen.de/viewer/metadata/37420108/2/-/", "http://www.landesmuseum-oldenburg.niedersachsen.de/live/live.php?navigation_id=24369&article_id=85054&_psmand=184"]
+
+Name: ["juleum", "auch juleum novum genannt"]
+Adresse: ["helmstedt", "de"]
+Anderes: ["https://denkmalatlas.niedersachsen.de/viewer/metadata/32701880/3/-/", "https://commons.wikimedia.org/wiki/file:26_%d0%a5%d0%b5%d0%bb%d1%8c%d0%bc%d1%88%d1%82%d0%b5%d0%b4.jpg"]
+
+Name: ["håkonshallen", "håkonshalle", "haakon's hall"]
+Adresse: []
+Anderes: ["bryggens.museum@bymuseet.no", "+47 47979577", "https://bymuseet.no/museum/hakonshallen/"]
+
+Name: ["augusteum"]
+Adresse: ["oldenburg", "de"]
+Anderes: ["https://denkmalatlas.niedersachsen.de/viewer/metadata/37420335/1/-/"]
+
+Name: ["koncentrační tábor mittelbau-dora", "kz-gedenkstätte mittelbau-dora", "koncentrační tábor dora", "mittelbau-dora concentration camp memorial", "mémorial du camp de concentration de mittelbau-dora", "gedenkplaats concentratiekamp mittelbau-dora", "mittelbau-dora"]
+Adresse: ["nordhausen"]
+Anderes: ["https://www.dora.de/"]
+
+Name: ["burlington house", "ra", "royal academy of arts", "каралеўская акадэмія мастацтваў"]
+Adresse: ["london"]
+Anderes: ["https://historicengland.org.uk/listing/the-list/list-entry/1226676", "https://www.royalacademy.org.uk"]
+
+Name: ["orangery", "orangerie"]
+Adresse: ["wien", "at"]
+Anderes: ["https://www.belvedere.at/"]
+
+Name: ["ukranenland"]
+Adresse: []
+Anderes: ["http://www.ukranenland.de"]
+
+Name: ["bildermuseum", "museum der bildenden künste", "museum der bildenden künste", "museum of fine arts", "musée des arts visuels", "muzej tworjacych wuměłstwow", "музей изобразительных искусств", "музей образотворчих мистецтв"]
+Adresse: ["leipzig", "de"]
+Anderes: ["https://www.facebook.com/mdbk.leipzig", "https://soundcloud.com/mdbk", "https://twitter.com/mdbkleipzig", "https://www.youtube.com/user/mdbkleipzig", "https://www.mdbk.de/"]
+
+Name: ["culloden battlefield visitor centre", "ionad-luchd àrach blàr chùil lodair", "卡伦顿战场游客中心"]
+Adresse: ["inverness"]
+Anderes: ["+44 1463 796090", "https://www.nts.org.uk/visit/places/culloden"]
+
+Name: ["vigelandmuseet", "vigeland museum", "the vigeland museum", "музей вигеланд"]
+Adresse: []
+Anderes: ["https://vigeland.museum.no/"]
+
+Name: ["musée de l'ancien évêché"]
+Adresse: []
+Anderes: ["+33 4 76 03 15 25", "data.gouv.fr:ministère de la culture - 04/2015", "https://musees.isere.fr/musee/musee-de-lancien-eveche"]
+
+Name: ["town hall", "st alban's museum + gallery"]
+Adresse: ["st albans"]
+Anderes: ["https://www.stalbansmuseums.org.uk/"]
+
+Name: ["musée de la résistance et de la déportation de l'isère"]
+Adresse: ["grenoble"]
+Anderes: ["https://musees.isere.fr/musee/musee-de-la-resistance-et-de-la-deportation-de-lisere"]
+
+Name: ["abbamuseet", "abba the museum", "abba-museo", "музей абба", "abba博物馆"]
+Adresse: []
+Anderes: ["https://abbathemuseum.com/opening-hours", "https://abbathemuseum.com"]
+
+Name: ["foundling museum"]
+Adresse: ["london"]
+Anderes: ["https://foundlingmuseum.org.uk/"]
+
+Name: ["alter leuchtturm", "old lighthouse"]
+Adresse: []
+Anderes: ["www.freietonne.de?edit=4218", "https://denkmalatlas.niedersachsen.de/viewer/metadata/35732366/1/-/"]
+
+Name: ["schwartzsche villa", "schwartz villa"]
+Adresse: ["berlin", "de"]
+Anderes: ["https://www.berlin.de/ba-steglitz-zehlendorf/auf-einen-blick/kultur/schwartzsche-villa/", "https://www.berlin.de/museum/3109584-2926344-schwartzsche-villa.html"]
+
+Name: ["sir walter scott monument", "scott monument", "cofadail scott", "monumento scott", "carragh-cuimhne scott"]
+Adresse: ["edinburgh"]
+Anderes: ["https://www.edinburghmuseums.org.uk/venue/scott-monument"]
+
+Name: ["sammlung schack", "галерея шака", "schack-galerie"]
+Adresse: ["münchen", "de"]
+Anderes: ["https://www.pinakothek.de/de/besuch/sammlung-schack"]
+
+Name: ["osborne house, garden and grounds", "osborne"]
+Adresse: []
+Anderes: ["https://www.english-heritage.org.uk/visit/places/osborne/", "https://www.english-heritage.org.uk/visit/places/osborne"]
+
+Name: ["haus lange"]
+Adresse: ["krefeld", "de"]
+Anderes: ["https://de.wikipedia.org/wiki/datei:krefeld_haus_lange_gartenseite04_12.jpg", "https://www.kunstmuseenkrefeld.de/"]
+
+Name: ["haus esters"]
+Adresse: ["krefeld"]
+Anderes: ["https://de.wikipedia.org/wiki/datei:krefeld_haus_lange_esthers_9.jpg", "https://www.kunstmuseenkrefeld.de/"]
+
+Name: ["galerie bodenseekreis"]
+Adresse: ["meersburg", "de"]
+Anderes: ["https://www.bodenseekreis.de/bildung-kultur/kultur/galerie-bodenseekreis.html"]
+
+Name: ["kunsthaus"]
+Adresse: ["kaufbeuren", "de"]
+Anderes: ["https://www.kunsthaus-kaufbeuren.de/"]
+
+Name: ["musée de saint-antoine-l'abbaye"]
+Adresse: []
+Anderes: ["https://musees.isere.fr/musee/musee-de-saint-antoine-labbaye"]
+
+Name: ["maison bergès", "musée de la houille blanche"]
+Adresse: []
+Anderes: ["+33 4 38 92 19 60", "https://musees.isere.fr/musee/maison-berges"]
+
+Name: ["museum of the history of science", "old ashmolean building"]
+Adresse: []
+Anderes: ["https://www.facebook.com/hsmoxford/", "https://www.instagram.com/hsmoxford/", "https://twitter.com/hsmoxford", "https://www.youtube.com/c/historyofsciencemuseum", "https://hsm.ox.ac.uk/"]
+
+Name: ["stadtmuseum lindau - \"haus zum cavazzen\""]
+Adresse: ["lindau (bodensee)", "de"]
+Anderes: ["https://photos.app.goo.gl/825bz2ezyqjbwsce7", "siehe https://www.kultur-lindau.de/museum/ für den aktuellen status bzgl. umbauarbeiten (standort marktplatz 6)", "https://www.kultur-lindau.de/museum/"]
+
+Name: ["kunsthaus dahlem"]
+Adresse: ["berlin", "de"]
+Anderes: ["http://kunsthaus-dahlem.de/", "https://denkmaldatenbank.berlin.de/daobj.php?obj_dok_nr=09075361"]
+
+Name: ["iwalewahaus"]
+Adresse: ["bayreuth", "de"]
+Anderes: ["iwalewa@uni-bayreuth.de", "+49 921 5545 02", "+49 921 5545 00", "https://www.iwalewa.uni-bayreuth.de", "https://commons.wikimedia.org/wiki/file:bayreuth,_w%c3%b6lfelstra%c3%9fe_2_20170603_001.jpg"]
+
+Name: ["farnborough air science trust museum"]
+Adresse: []
+Anderes: ["https://airsciences.org.uk/"]
+
+Name: ["musée archéologique saint-laurent", "église saint-laurent"]
+Adresse: []
+Anderes: ["data.gouv.fr:ministère de la culture - 04/2015", "https://musees.isere.fr/musee/musee-archeologique-saint-laurent"]
+
+Name: ["historiska museet"]
+Adresse: ["lund", "se"]
+Anderes: ["https://www.historiskamuseet.lu.se/historiska-museet-vid-lunds-universitet"]
+
+Name: ["city art centre"]
+Adresse: ["edinburgh"]
+Anderes: ["https://www.edinburghmuseums.org.uk/venue/city-art-centre"]
+
+Name: ["alt falkenstein"]
+Adresse: []
+Anderes: ["https://www.museum-alt-falkenstein.ch/"]
+
+Name: ["veteran aréna"]
+Adresse: []
+Anderes: ["https://www.veteranarena.cz/cs/"]
+
+Name: ["canongate tolbooth", "the people's story museum"]
+Adresse: ["edinburgh"]
+Anderes: ["https://www.facebook.com/the-peoples-story-museum-386895958024216/", "https://www.edinburghmuseums.org.uk/venues/the-people-s-story"]
+
+Name: ["römermuseum schwarzenacker"]
+Adresse: ["homburg", "de"]
+Anderes: ["https://www.roemermuseum-schwarzenacker.de/"]
+
+Name: ["alloa tower"]
+Adresse: []
+Anderes: ["https://www.nts.org.uk/visit/places/alloa-tower"]
+
+Name: ["muzeul național de artă al moldovei", "national museum of fine arts", "национальный музей изобразительного искусства республики молдова"]
+Adresse: ["chișinău"]
+Anderes: ["http://www.mnam.md"]
+
+Name: ["perth water works (1832)", "the fergusson gallery"]
+Adresse: ["perth"]
+Anderes: ["https://www.culturepk.org.uk/museums-and-galleries/the-fergusson-gallery/"]
+
+Name: ["musée würth"]
+Adresse: ["erstein"]
+Anderes: ["https://www.musee-wurth.fr"]
+
+Name: ["музей івана гончара", "ivan honchar museum", "muzeum iwana gonczara", "музей ивана гончара", "музей івана гончара", "канцелярія генерал-губернатора"]
+Adresse: []
+Anderes: ["https://honchar.org.ua/"]
+
+Name: ["bockwindmühle"]
+Adresse: []
+Anderes: ["https://denkmalatlas.niedersachsen.de/viewer/metadata/43321179/"]
+
+Name: ["maestir school", "ysgol maestir"]
+Adresse: []
+Anderes: ["https://museum.wales/stfagans/buildings/maestir_school/"]
+
+Name: ["taigh chearsabhagh"]
+Adresse: ["loch nam madadh"]
+Anderes: ["https://facebook.com/taighchearsabhagh", "https://twitter.com/taigh_c", "https://www.taigh-chearsabhagh.org/"]
+
+Name: ["imax dome filmtheater"]
+Adresse: ["speyer"]
+Anderes: ["+49 6232 67080", "https://speyer.technik-museum.de/de/imax-dome-kino"]
+
+Name: ["venclauskių namai"]
+Adresse: ["šiauliai"]
+Anderes: ["https://www.ausrosmuziejus.lt/venclauskiu-namai/"]
+
+Name: ["freilichtmuseum für volkskunde schwerin-mueß"]
+Adresse: []
+Anderes: ["http://www.facebook.com/freilichtmuseumschwerin", "+385 2084124", "https://www.schwerin.de/kultur-tourismus/kunst-kultur/bildende-kunst-museen/freilichtmuseum-schwerin-muess/"]
+
+Name: ["maison des johnnies et de l'oignon de roscoff"]
+Adresse: []
+Anderes: ["https://www.roscoff.fr/-maison-des-johnnies-et-de-l-oignon-.html"]
+
+Name: ["bishop's palace museum"]
+Adresse: ["waterford"]
+Anderes: ["https://www.waterfordtreasures.com/bishops-palace/index.htm"]
+
+Name: ["antiquarium di ostia antica"]
+Adresse: []
+Anderes: ["https://www.ostiaantica.beniculturali.it/"]
+
+Name: ["vejle kunstmuseum", "vejle museum of art"]
+Adresse: []
+Anderes: ["https://www.vejlemuseerne.dk/museum/vejle-kunstmuseum"]
+
+Name: ["trondheim kunstmuseum bispegata"]
+Adresse: []
+Anderes: ["https://trondheimkunstmuseum.no/"]
+
+Name: ["knauf-museum"]
+Adresse: ["iphofen", "de"]
+Anderes: ["https://www.knauf-museum.de"]
+
+Name: ["musée communal du comté de jette - gemeentelijke museum graafschap jette", "musée communal du comté de jette", "gemeentelijke museum graafschap jette"]
+Adresse: []
+Anderes: ["+32 2 479 00 52", "https://www.jette.irisnet.be/fr/loisirs/musees/musee-communal-du-comte-de-jette"]
+
+Name: ["mammutheum"]
+Adresse: ["siegsdorf", "de"]
+Anderes: ["angeblich 2021 in paraguay ermordet, sz-bericht http://archive.today/qfb9t", "http://www.mammutheum.de/"]
+
+Name: ["музей изобразительных искусств", "regionales jugendkulturzentrum", "государственное бюджетное учреждение культуры \"калининградский музей изобразительных искусств\"", "кёнигсбергская биржа", "königsberger börse"]
+Adresse: ["калининград", "ru"]
+Anderes: ["kaliningradartmuseum", "kaliningradartmuseum", "kaliningradartmuseum", "https://www.youtube.com/channel/uc2grh02lg-7ryzgryvxnkuq/", "https://www.kaliningradartmuseum.ru/"]
+
+Name: ["kunstmuseum", "museum baden;rathaus gräfrath"]
+Adresse: ["solingen", "de"]
+Anderes: ["info@kunstmuseum-solingen.de", "+492122581444", "+49212258140", "http://www.kunstmuseum-solingen.de/", "https://commons.wikimedia.org/wiki/file:museum-baden.jpg"]
+
+Name: ["storiel", "bangor museum and art gallery"]
+Adresse: ["bangor"]
+Anderes: ["https://www.storiel.cymru/"]
+
+Name: ["musée vendéen", "musée de fontenay-le-comte"]
+Adresse: []
+Anderes: ["https://www.fontenay-le-comte.fr/musee-fontenay"]
+
+Name: ["raf museum"]
+Adresse: []
+Anderes: ["https://www.rafmuseum.org.uk/london"]
+
+Name: ["kunstmuseum st. gallen"]
+Adresse: ["st gallen", "ch"]
+Anderes: ["https://www.kunstmuseumsg.ch"]
+
+Name: ["maison du peintre ernest hébert", "musée hébert"]
+Adresse: ["la tronche"]
+Anderes: ["data.gouv.fr:ministère de la culture - 04/2015", "https://musees.isere.fr/musee/musee-hebert"]
+
+Name: ["eye filminstituut", "museo del cine - eye", "eye filminstituut", "filmmuseum"]
+Adresse: ["amsterdam"]
+Anderes: ["https://www.eyefilm.nl/", "https://www.youtube.com/watch?v=zckix84vbc4"]
+
+Name: ["naturama"]
+Adresse: []
+Anderes: ["https://naturama.dk/"]
+
+Name: ["[mac]", "musée d'art contemporain de marseille", "musèu d'art contemporanèu de marselha", "ieo-bdtopoc"]
+Adresse: []
+Anderes: ["https://www.flickr.com/photos/lesoliviers/3365188084/in/photolist-68ntbd-f45bp6-2f65p-ekmcw9-ekzlg6-feeecw-eb5cmf-2f5xh-7tvejt-7tvfpg-7tyv47-7tvejx-r2j7zc-eayzhg-skby3b-d22wg-ekmbxo-s4cyzy-skjm2p-s2s7na-7jsb7b-2f62v-7jsnd4-7jwe1q-2f6ed-oexm6e-ckbrnf-roym6", "http://mac.marseille.fr"]
+
+Name: ["heuneburg", "freilichtmuseum heuneburg"]
+Adresse: []
+Anderes: ["http://www.heuneburg.de/"]
+
+Name: ["museo de arte sacro"]
+Adresse: []
+Anderes: ["https://commons.wikimedia.org/wiki/file:ampudia_-_020_(27236103408).jpg", "http://ampudia.es/index.php/turismo/lugares-de-interes/museo-de-arte-sacro/"]
+
+Name: ["dronning sonjas kunststall"]
+Adresse: []
+Anderes: ["https://www.facebook.com/kunststallen/", "https://www.kongehuset.no/artikkel.html?tid=153246&sek=79786"]
+
+Name: ["museo provincial de albacete"]
+Adresse: []
+Anderes: ["https://commons.wikimedia.org/wiki/museo_de_albacete#/media/file:albacete_-_museo_provincial_1.jpg", "https://cultura.castillalamancha.es/museos/nuestros-museos/museo-de-albacete"]
+
+Name: ["getreuen- und bismarckmuseum"]
+Adresse: ["jever", "de"]
+Anderes: ["https://museen.de/getreuen-und-bismarckmuseum-jever.html", "https://jever-aktiv.de/images/11_bismarckmuseum.jpg", "https://www.schlossmuseum.de/vom-bismarck-zum-getreuenmuseum-neueroeffnung-in-jever/", "https://gutes-aus-jever.de/schaufenster/getreuen_und_bismarckmuseum"]
+
+Name: ["núcleo museológico de arte e arqueologia medievais;museu municipal de santarém;convento e igreja de são joão de alporão", "igreja de são joão de alporão"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70434", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=3393", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf"]
+
+Name: ["galerie stihl - waiblingen"]
+Adresse: ["waiblingen"]
+Anderes: ["+49 7151 50011699", "+49 7151 50011686", "https://www.galerie-stihl-waiblingen.de/"]
+
+Name: ["casa no largo artur barreto, n.º 24;casa museu fernando namora", "casa museu fernando namora"]
+Adresse: ["condeixa-a-nova"]
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=71642", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=4798", "http://roteiromuseus.ccdrc.pt/museu_ficha.aspx?idmuseu=80&tipologia=3"]
+
+Name: ["musée départemental maurice denis"]
+Adresse: ["saint-germain-en-laye", "fr"]
+Anderes: ["https://www.musee-mauricedenis.fr/"]
+
+Name: ["palácio da cerca;casa da cerca", "casa da cerca - centro de arte contemporânea"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74207", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=2135", "http://dre.pt/pdf1sdip/1996/03/056b00/04480457.pdf"]
+
+Name: ["l'arvo"]
+Adresse: ["limbourg", "be"]
+Anderes: ["http://lampspw.wallonie.be/dgo4/site_thema/index.php/dossier/view/bc_pat/63046-clt-0018-01", "https://de.wikipedia.org/wiki/datei:limbourg-la_ville_haute_historique_(142).jpg"]
+
+Name: ["palácio belmarço", "palacete belmarço"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=333524", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=4551", "https://dre.pt/pdf2sdip/2013/04/072000000/1210012101.pdf"]
+
+Name: ["perth museum and art gallery"]
+Adresse: ["perth"]
+Anderes: ["https://www.culturepk.org.uk/museums-and-galleries/perth-museum-and-art-gallery/"]
+
+Name: ["besucherzentrum arche nebra"]
+Adresse: ["nebra (unstrut)", "de"]
+Anderes: ["https://www.himmelsscheibe-erleben.de/"]
+
+Name: ["ca' d'oro", "ca' d'oro", "ca' d'oro", "дворец ка'д'оро", "金屋"]
+Adresse: ["venezia"]
+Anderes: ["https://polomusealeveneto.beniculturali.it/musei/galleria-giorgio-franchetti-alla-ca-doro"]
+
+Name: ["skovgaard museet"]
+Adresse: []
+Anderes: ["https://www.skovgaardmuseet.dk/"]
+
+Name: ["motte küntrop"]
+Adresse: []
+Anderes: ["https://www.küntrop.de/die-motte/"]
+
+Name: ["museu de santa joana;museu de aveiro;mosteiro de jesus", "museu de aveiro", "aveiro museum"]
+Adresse: ["aveiro"]
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=71149", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=2255", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf", "https://www.cm-aveiro.pt/visitantes/museus-de-aveiro/museu-de-aveiro-santa-joana"]
+
+Name: ["belvedere"]
+Adresse: []
+Anderes: ["http://commons.wikimedia.org/wiki/file:berlin_belvedere_schlossgarten_charlottenburg_01_20080423.jpg", "https://photos.app.goo.gl/jjbjpgvoifjpgag38", "https://www.museumsportal-berlin.de/de/museen/belvedere-im-schlosspark-charlottenburg/"]
+
+Name: ["vitra design museum gallery, frank gehry (1989/2003)"]
+Adresse: ["weil am rhein", "de"]
+Anderes: ["https://www.vitra.com/de-ch/campus/architecture/architecture-vitra-design-museum-gallery"]
+
+Name: ["poldermuseum"]
+Adresse: ["berendrecht-zandvliet-lillo"]
+Anderes: ["https://www.facebook.com/poldermuseum", "https://inventaris.onroerenderfgoed.be/dibe/relict/10880", "https://www.poldermuseum-lillo.be"]
+
+Name: ["kunstverein"]
+Adresse: ["mannheim", "de"]
+Anderes: ["http://de.wikipedia.org/wiki/datei:mannheim_kunstverein_20100627.jpg", "https://mannheimer-kunstverein.de/"]
+
+Name: ["museo archeologico di kamarina"]
+Adresse: []
+Anderes: ["https://www.guidasicilia.it/notizia/riapre-il-museo-archeologico-regionale-di-kamarina-con-un-nuovo-allestimento/3016561", "https://www.beniculturali.it/luogo/museo-regionale-di-kamarina"]
+
+Name: ["museo pinacoteca gualtieri \"lo splendore del reale\""]
+Adresse: []
+Anderes: ["http://www.gualtierimuseum.it"]
+
+Name: ["scharfrichtermuseum"]
+Adresse: ["pottenstein", "de"]
+Anderes: ["https://de.wikipedia.org/wiki/datei:d-4-72-179-20_01.jpg", "https://photos.app.goo.gl/tpscdjveb82udm2wa", "http://www.scharfrichtermuseum.de/"]
+
+Name: ["braem paviljoen", "braempaviljoen"]
+Adresse: []
+Anderes: ["https://inventaris.onroerenderfgoed.be/dibe/relict/200502", "https://upload.wikimedia.org/wikipedia/commons/9/99/braem_paviljoen_in_middelheimmuseum.jpg", "https://photos.app.goo.gl/sfna9swltwemtmun9"]
+
+Name: ["trondheim kunstmuseum gråmølna"]
+Adresse: []
+Anderes: ["https://trondheimkunstmuseum.no/tkm-gramolna"]
+
+Name: ["antigo paço episcopal de bragança;paço episcopal de bragança;museu abade baçal", "museu do abade de baçal"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74275", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=1054", "http://www.dre.pt/pdf1s/1986/01/00200/00110014.pdf"]
+
+Name: ["hugh miller's museum and cottage"]
+Adresse: ["cromarty"]
+Anderes: ["https://www.nts.org.uk/property/hugh-millers-birthplace-cottage-and-museum/"]
+
+Name: ["художествена галерия \"борис георгиев\"", "art gallery boris georgiev", "мъжка гимназия"]
+Adresse: ["варна"]
+Anderes: ["http://www.varnacityartgallery.com"]
+
+Name: ["igreja do convento de são francisco", "igreja de são francisco", "church of são francisco", "성 프란시스쿠 성당", "церковь святого франциска"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70199", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=3944", "https://opendata.porto.digital/dataset/urbanismo-imoveis-classificados-ou-em-vias-de-classificacao-imovel-classificado-ou", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf"]
+
+Name: ["palácio dos pinheiros", "solar dos pinheiros"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70516", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=772", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf"]
+
+Name: ["museo civiltà contadina \"fratelli cervi\""]
+Adresse: ["gattatico"]
+Anderes: ["https://it-it.facebook.com/museocervi/", "https://www.istitutocervi.it"]
+
+Name: ["heimatmuseum bramberg"]
+Adresse: []
+Anderes: ["https://www.museumbramberg.at/"]
+
+Name: ["gruuthusemuseum", "q2012173", "musée gruuthuse", "huis van de heren van gruuthuse"]
+Adresse: ["brugge", "be"]
+Anderes: ["https://commons.wikimedia.org/wiki/file:gruuthuuse.jpg", "https://photos.app.goo.gl/jxkzpeuefcrfwhsy7", "https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/gruuthusemuseum"]
+
+Name: ["schramlhaus / heimatmuseum"]
+Adresse: ["freyung", "de"]
+Anderes: ["https://www.freyung.de/de/kultur-und-kulinarik/sehenswertes/schramlhaus-mit-heimatmuseum.html"]
+
+Name: ["museo íbero"]
+Adresse: ["jaén"]
+Anderes: ["http://www.museosdeandalucia.es/ibero"]
+
+Name: ["guildhall of corpus christi"]
+Adresse: ["sudbury"]
+Anderes: ["https://www.nationaltrust.org.uk/lavenham-guildhall"]
+
+Name: ["stieber mooseum"]
+Adresse: []
+Anderes: ["https://museum.hinterpasseier.it/stieber-museum/"]
+
+Name: ["quebec house"]
+Adresse: ["westerham"]
+Anderes: ["https://www.nationaltrust.org.uk/quebec-house/"]
+
+Name: ["dokumentations- und kulturzentrum deutscher sinti und roma"]
+Adresse: ["heidelberg"]
+Anderes: ["lgl, www.lgl-bw.de", "https://dokuzentrum.sintiundroma.de"]
+
+Name: ["ratusz", "rathaus", "ratusz"]
+Adresse: ["jarocin", "0936776"]
+Anderes: ["http://www.muzeumjarocin.pl/"]
+
+Name: ["kunstmuseum"]
+Adresse: ["stuttgart", "de"]
+Anderes: ["+49 711 2162188", "https://www.kunstmuseum-stuttgart.de/"]
+
+Name: ["museo nazionale collezione salce"]
+Adresse: ["treviso"]
+Anderes: ["https://it-it.facebook.com/museocollezionesalce/", "https://www.firstonline.info/treviso-apre-il-museo-nazionale-collezione-salce-con-50-mila-manifesti-storici/"]
+
+Name: ["quinta dos pianos;centro de artes tradicionais de almada", "solar dos zagallos"]
+Adresse: []
+Anderes: ["http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=4682"]
+
+Name: ["museum alpin"]
+Adresse: ["pontresina"]
+Anderes: ["https://www.pontresina.ch/winter/kultur-freizeit/museum-alpin/willkommen.html"]
+
+Name: ["natz-thier-haus"]
+Adresse: ["coesfeld"]
+Anderes: ["https://stadtmuseum.coesfeld.de/museen-und-ausstellungen/natz-thier-haus"]
+
+Name: ["ephraim-palais", "palais ephraim"]
+Adresse: ["berlin", "de"]
+Anderes: ["+49 30 24002162", "https://www.stadtmuseum.de/ephraim-palais/", "https://denkmaldatenbank.berlin.de/daobj.php?obj_dok_nr=09011270"]
+
+Name: ["salettl"]
+Adresse: []
+Anderes: ["https://www.freilichtmuseum.de/salettl", "freilichtmuseum.de"]
+
+Name: ["haworth art gallery"]
+Adresse: []
+Anderes: ["https://historicengland.org.uk/listing/the-list/list-entry/1205787"]
+
+Name: ["hoidahaisl"]
+Adresse: ["rappottenstein", "at"]
+Anderes: ["http://www.dorfmuseum-roiten.at"]
+
+Name: ["ns-dokumentationszentrum münchen"]
+Adresse: ["münchen", "de"]
+Anderes: ["https://www.nsdoku.de/"]
+
+Name: ["institut valencià d'art modern", "institut valencià d'art modern", "valencian institute of modern art", "instituto valenciano de arte moderno", "ivam"]
+Adresse: ["valencia"]
+Anderes: ["https://ivam.es"]
+
+Name: ["blackburn museum", "blackburn museum and art gallery"]
+Adresse: ["blackburn"]
+Anderes: ["https://historicengland.org.uk/listing/the-list/list-entry/1223411", "https://www.blackburn.gov.uk/pages/museum-and-art-gallery.aspx"]
+
+Name: ["muzeum stylu zakopiańskiego w willi koliba"]
+Adresse: ["zakopane"]
+Anderes: ["https://commons.wikimedia.org/wiki/file:willa_drewn._%e2%80%9ekoliba%e2%80%9d,_zakopane,_a-1125_m_01.jpg", "emuia.gugik.gov.pl", "https://muzeumtatrzanskie.pl/filie/willa-koliba-muzeum-stylu-zakopianskiego/"]
+
+Name: ["skulpturengarten des museum der stadt lüdenscheid"]
+Adresse: []
+Anderes: ["https://www.come-on.de/lokales/luedenscheid/garten-luedenscheid-4031877.html"]
+
+Name: ["monastero di torba"]
+Adresse: ["gornate olona"]
+Anderes: ["https://fondoambiente.it/luoghi/monastero-di-torba"]
+
+Name: ["pergamon-museum", "pergamonmuseum", "pergamonské muzeum", "pergamonmuseet", "pergamonmuseum", "pergamon museum", "museo de pérgamo", "q18986", "musée pergame", "museo di pergamo", "pergamonmuseum", "muzeum pergamońskie", "пергамский музей", "貝加蒙博物館"]
+Adresse: ["berlin", "de"]
+Anderes: ["im pergamon-museum gibt es führungen für blinde und sehgeschädigte. siehe http://www.absv.de/freizeit/pergamon.htm", "+49 30 20905577", "https://photos.app.goo.gl/dcym3wptuwoxhfbm6", "https://www.smb.museum/museen-einrichtungen/pergamonmuseum/"]
+
+Name: ["leliëndaalkerk", "onze-lieve-vrouw-van-leliëndaalkerk", "norbertinessenpriorij onze-lieve-vrouw van leliëndaal"]
+Adresse: []
+Anderes: ["https://inventaris.onroerenderfgoed.be/dibe/relict/3851", "http://commons.wikimedia.org/wiki/file:leliendaal-priorij.jpg", "https://toerisme.mechelen.be/nl/onze-lieve-vrouw-van-leliendaalkerk"]
+
+Name: ["museum hof van busleyden", "q2316345", "hof van busleyden"]
+Adresse: ["mechelen"]
+Anderes: ["hvb@mechelen.be", "https://id.erfgoed.net/erfgoedobjecten/3588", "https://commons.wikimedia.org/wiki/file:museum_hof_van_busleyden_mechelen_6-07-2018_11-52-38.jpg", "https://www.hofvanbusleyden.be/openingsuren", "https://www.hofvanbusleyden.be/"]
+
+Name: ["rheinisches industriemuseum", "lvr-industriemuseum: tuchfabrik müller", "lvr museum of industry: mueller cloth mill", "usine textile müller"]
+Adresse: ["euskirchen", "de"]
+Anderes: ["industriemuseum-euskirchen@lvr.de", "+49 2251 1488120", "+49 2251 14880", "https://industriemuseum.lvr.de/de/die_museen/euskirchen/tuchfabrik_mueller.html"]
+
+Name: ["βίλα ιλίσια", "βυζαντινό και χριστιανικό μουσείο", "museu bizantí i cristià", "byzantinisches und christliches museum", "βυζαντινό και χριστιανικό μουσείο", "byzantine and christian museum", "museo bizantino", "musée byzantin et chrétien"]
+Adresse: ["αθήνα", "gr"]
+Anderes: ["info.bma@culture.gr", "+30 213 2139500", "http://www.byzantinemuseum.gr", "http://www.byzantinemuseum.gr/el/info/, http://odysseus.culture.gr/h/1/gh155.jsp?obj_id=3349"]
+
+Name: ["museu do traje de são brás de alportel", "trachtenmuseum von são brás de alportel"]
+Adresse: ["são brás de alportel"]
+Anderes: ["http://museu-sbras.com/", "http://museu-sbras.com/"]
+
+Name: ["das depot"]
+Adresse: []
+Anderes: ["https://www.fdbs.net/"]
+
+Name: ["museumsquartier", "museumsquartier", "mq"]
+Adresse: []
+Anderes: ["https://www.mqw.at/"]
+
+Name: ["acorn bank"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/acorn-bank"]
+
+Name: ["sylter heimatmuseum"]
+Adresse: ["sylt", "de"]
+Anderes: ["info@sylter-museen.de", "+49 4651 31669", "https://soelring-museen.de/syltmuseum/"]
+
+Name: ["art center hugo voeten"]
+Adresse: []
+Anderes: ["https://www.facebook.com/artcenterhugovoeten", "https://collectionhugovoeten.com"]
+
+Name: ["sammlung essl"]
+Adresse: ["klosterneuburg", "at"]
+Anderes: ["http://sammlung-essl.at/"]
+
+Name: ["george stephenson's birthplace"]
+Adresse: ["wylam"]
+Anderes: ["https://www.nationaltrust.org.uk/visit/north-east/george-stephensons-birthplace", "https://www.nationaltrust.org.uk/george-stephensons-birthplace/"]
+
+Name: ["heimatmuseum langelsheim"]
+Adresse: ["langelsheim"]
+Anderes: ["https://www.langelsheim.de/leben/kultur/heimatmuseum-langelsheim/"]
+
+Name: ["hexham old gaol"]
+Adresse: ["hexham"]
+Anderes: ["https://www.visitnorthumberland.com/site/attractions/museums-and-galleries/hexham-old-gaol;www.hexhamoldgaol.org.uk"]
+
+Name: ["museo della sinagoga di bova marina"]
+Adresse: ["bova marina"]
+Anderes: ["https://www.facebook.com/pages/category/archaeological-service/museo-e-parco-archeologico-archeoderi-di-bova-marina-dr-musei-calabria-103650998066994/", "https://www.beniculturali.it/luogo/museo-e-parco-archeologico-archeoderi?page=2#contatti"]
+
+Name: []
+Adresse: []
+Anderes: ["https://commons.wikimedia.org/wiki/file:museum_f%c3%bcr_ostasiatische_kunst_k%c3%b6ln_-_aachener_weiher_und_plastik-1960.jpg?uselang=de"]
+
+Name: ["musa"]
+Adresse: ["wien", "at"]
+Anderes: ["https://www.musa.at/"]
+
+Name: ["ital-reding-haus"]
+Adresse: []
+Anderes: ["1609 für ital reding erbaut. seit 1982 museum für wohnkultur und erinnerung an die familie reding. (quelle: burgenverein.ch)", "https://www.irh.ch/"]
+
+Name: ["muzeul de artă", "art museum"]
+Adresse: ["piatra neamț"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "http://www.muzeu-neamt.ro/"]
+
+Name: ["magyar természettudományi múzeum", "ungarisches naturwissenschaftliches museum", "hungarian natural history museum", "musée hongrois des sciences naturelles", "magyar természettudományi múzeum", "mttm"]
+Adresse: ["budapest"]
+Anderes: ["https://www.facebook.com/mttmuzeum", "http://www.nhmus.hu/"]
+
+Name: ["muzeul de artă eneolitica cucuteni", "cucuteni eneolithic art museum", "muzeum sztuki eneolitycznej cucuteni"]
+Adresse: ["piatra neamț"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "http://www.muzeu-neamt.ro/"]
+
+Name: ["la beola e lo scalpellino"]
+Adresse: []
+Anderes: ["http://www.amossola.it/musei_ossola/it/museo/museo-la-beola-e-lo-scalpellino"]
+
+Name: ["the arched house", "thomas carlyle's birthplace"]
+Adresse: ["gb"]
+Anderes: ["https://www.nts.org.uk/thomascarlylesbirthplace"]
+
+Name: ["city mill"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/winchester-city-mill/"]
+
+Name: ["haus für kunst uri"]
+Adresse: ["altdorf ur"]
+Anderes: ["https://www.hausfuerkunsturi.ch/besucherinfos/oeffnungszeiten-preise/", "https://www.hausfuerkunsturi.ch/"]
+
+Name: ["lough boora sculpture park"]
+Adresse: ["boora"]
+Anderes: ["https://www.facebook.com/loughbooraparklands", "https://twitter.com/loughboorapark", "https://www.youtube.com/user/loughbooraparklands", "https://www.loughboora.com/sculpture/"]
+
+Name: ["the allen gallery"]
+Adresse: ["alton"]
+Anderes: ["https://www.hampshireculture.org.uk/allen-gallery"]
+
+Name: ["michell's engine house"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/east-pool-mine"]
+
+Name: ["taidekeskus puustelli"]
+Adresse: ["kemijärvi"]
+Anderes: ["https://www.visitkemijarvi.fi/fi/hallinta/yritykset/taidekeskus_puustelli/"]
+
+Name: ["muzeul de etnografie", "ethnographic museum", "muzeum etnograficzne"]
+Adresse: ["piatra neamț"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "http://www.muzeu-neamt.ro/"]
+
+Name: ["deutsches bunkermuseum"]
+Adresse: ["schweinfurt"]
+Anderes: ["https://www.deutsches-bunkermuseum.de/"]
+
+Name: ["m shed"]
+Adresse: ["bristol"]
+Anderes: ["https://www.bristolmuseums.org.uk/m-shed/"]
+
+Name: ["peckover house & gardens"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/peckover-house-and-garden"]
+
+Name: ["музеј томе росандића", "museum of toma rosandić", "музеј томе росандића", "muzej tome rosandića"]
+Adresse: []
+Anderes: ["https://beogradskonasledje.rs/kd/zavod/savski_venac/muzej_tome_rosandica"]
+
+Name: ["ίδρυμα βασίλη & ελίζας γουλανδρή", "basil & elise goulandris foundation"]
+Adresse: ["αθήνα"]
+Anderes: ["https://goulandris.gr/"]
+
+Name: ["centro de memória"]
+Adresse: []
+Anderes: ["https://viladoconde.com/centro-de-memoria/"]
+
+Name: ["de naturhistoriske samlinger", "naturhistorisches museum", "the natural history collections", "de naturhistoriske samlinger", "dei naturhistoriske samlingane"]
+Adresse: []
+Anderes: ["https://www.universitetsmuseet.no/nb"]
+
+Name: ["kádár lakás múzeum"]
+Adresse: []
+Anderes: ["https://www.kochboraszat.hu/"]
+
+Name: ["museo casa de gasperi"]
+Adresse: []
+Anderes: ["https://www.degasperitn.it/it/museo-de-gasperi/"]
+
+Name: ["danubiana", "danubiana meulensteen art museum"]
+Adresse: ["hamuliakovo", "sk"]
+Anderes: ["https://photos.app.goo.gl/bdbcqnp8nuhecsqu5", "https://www.youtube.com/channel/uchzkd2kwg2dmi1meo8cr-ra/videos", "https://youtu.be/tqrs4essxps", "https://www.danubiana.sk/"]
+
+Name: ["andrew carnegie birthplace museum"]
+Adresse: ["dunfermline"]
+Anderes: ["https://www.carnegiebirthplace.com/"]
+
+Name: ["múzeum slovenskej dediny", "múzeum slovenskej dediny martin - jahodnícke háje"]
+Adresse: []
+Anderes: ["https://www.skanzenmartin.sk/"]
+
+Name: ["museu municipal de alcochete - núcleo sede"]
+Adresse: ["alcochete"]
+Anderes: ["https://www.cm-alcochete.pt/pages/205"]
+
+Name: ["hubschraubermuseum"]
+Adresse: ["bückeburg", "de"]
+Anderes: ["https://www.hubschraubermuseum.de/"]
+
+Name: ["museo_nacional_de_escocia", "national museum of scotland", "taigh-tasgaidh nàiseanta na h-alba", "스코틀랜드 국립박물관", "naitional museum o scotland", "royal musuem of scotland"]
+Adresse: ["edinburgh"]
+Anderes: ["https://www.nms.ac.uk/scotland/"]
+
+Name: ["bocholter brouwerijmuseum"]
+Adresse: ["bocholt", "be"]
+Anderes: ["http://www.bocholterbrouwerijmuseum.be/"]
+
+Name: ["galleria degli uffizi", "galerien der uffizien", "galerie des offices", "ウフィツィ美術館", "우피치 미술관", "галерея уффици", "uffizi galerisi", "乌菲齐美术馆"]
+Adresse: ["firenze"]
+Anderes: ["https://www.uffizi.it"]
+
+Name: ["fundación cerezales antonino y cinia"]
+Adresse: []
+Anderes: ["https://fundacioncerezalesantoninoycinia.org/", "https://fundacioncerezalesantoninoycinia.org/"]
+
+Name: ["galleria d'arte moderna ricci oddi"]
+Adresse: ["piacenza"]
+Anderes: ["https://riccioddi.it"]
+
+Name: ["the holburne museum"]
+Adresse: ["bath"]
+Anderes: ["https://historicengland.org.uk/listing/the-list/list-entry/1395305", "https://www.holburne.org/"]
+
+Name: ["mayer van den bergh"]
+Adresse: ["antwerpen"]
+Anderes: ["https://inventaris.onroerenderfgoed.be/dibe/relict/5328", "https://www.museummayervandenbergh.be/"]
+
+Name: ["muzeul brăilei", "museum of brăila"]
+Adresse: ["brăila"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "https://www.muzeulbrailei.ro/"]
+
+Name: ["schlossmuseum wolfshagen/prignitz", "gutshaus schloss wolfshagen"]
+Adresse: ["groß pankow (prignitz)", "de"]
+Anderes: ["https://www.schlossmuseum-wolfshagen.com/"]
+
+Name: ["художній музей ім. б.к. руднєва", "художній музей ім. б.к. руднєва", "лебединський міський художній музей імені б. к. руднєва"]
+Adresse: []
+Anderes: ["https://artmuseum.lebedyn.org/"]
+
+Name: ["robert-hammerstiel-museum"]
+Adresse: ["ternitz"]
+Anderes: ["https://www.ternitz.at/kulturelles.php#robert-hammerstiel-museum"]
+
+Name: ["barnens bruk"]
+Adresse: ["lövstabruk"]
+Anderes: ["https://www.lövstabruk.com/kulforbarn#/"]
+
+Name: ["heldermann-park"]
+Adresse: []
+Anderes: ["http://www.stadtmuseum-ibbenbueren.de/stadtgeschichte_aufsaetze_57.htm"]
+
+Name: ["bòbila del sugranyes", "bòbila del sugranyes"]
+Adresse: ["reus"]
+Anderes: ["https://www.museudereus.cat/sites/museudereus/files/fitxers/notes_premsa/bobila.jpg", "https://www.museudereus.cat/bobila-del-sugranyes"]
+
+Name: ["molchner stolln"]
+Adresse: ["marienberg", "de"]
+Anderes: ["http://www.molchner-stolln.de/"]
+
+Name: ["angermuseum erfurt"]
+Adresse: []
+Anderes: ["https://kunstmuseen.erfurt.de/km/de/angermuseum/index.html"]
+
+Name: ["belvedere"]
+Adresse: []
+Anderes: ["https://www.belvedere.at/"]
+
+Name: ["museo di preistoria e del mare - torre di ligny", "museum of prehistory and the sea -  tower of ligny"]
+Adresse: []
+Anderes: ["https://i.ibb.co/d7q0mhx/img-20230903-195141.jpg", "datiopen.it - provincia regionale di trapani", "http://www.datiopen.it/it/data/musei_della_provincia_di_trapani"]
+
+Name: ["tudor house"]
+Adresse: ["margate"]
+Anderes: ["https://www.margatemuseum.org/tudor-house"]
+
+Name: ["musée gassendi", "musée départemental gassendi"]
+Adresse: []
+Anderes: ["https://www.musee-gassendi.org"]
+
+Name: ["johannes v. jensen & thit jensen museet"]
+Adresse: []
+Anderes: ["https://www.jensenmuseet.dk/"]
+
+Name: []
+Adresse: ["dissen-striesow", "de"]
+Anderes: ["https://ns.gis-bldam-brandenburg.de/hida4web/view?docid=obj09125066.xml", "https://de.wikipedia.org/wiki/datei:heimatmuseum_dissen_2020-05-22.jpg"]
+
+Name: ["østfyns museer johannes larsen museet", "johannes larsen museet"]
+Adresse: []
+Anderes: ["https://johanneslarsenmuseet.dk/"]
+
+Name: ["casa natale di santa maria mazzarello"]
+Adresse: ["mazzarelli"]
+Anderes: ["https://fondoambiente.it/luoghi/mazzarelli-casa-natale-di-santa-maria-mazzarello"]
+
+Name: ["78 derngate: the charles rennie mackintosh house"]
+Adresse: []
+Anderes: ["https://www.78derngate.org.uk/"]
+
+Name: ["museo renato brozzi"]
+Adresse: []
+Anderes: ["8", "via fratelli cantini", "http://www.museorenatobrozzi.it/"]
+
+Name: ["musée d'art brut", "art brut"]
+Adresse: []
+Anderes: ["https://www.montpellier-tourisme.fr/offre/fiche/musee-d-art-brut-montpellier/pcular034v50x66y"]
+
+Name: ["military heritage centre"]
+Adresse: []
+Anderes: ["https://images.mapillary.com/o52wyjnp1cafsuloauwyyg/thumb-2048.jpg", "http://www.visitgibraltar.gi/military-heritage-centre"]
+
+Name: ["museu da cortiça", "museu da santa maria de lamas"]
+Adresse: ["santa maria de lamas"]
+Anderes: ["http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=35551"]
+
+Name: ["höhlermuseum meerane"]
+Adresse: ["meerane", "de"]
+Anderes: ["+49 (0)3764 / 1859448", "https://www.meerane.de/hoehler-hoehlermuseum.html"]
+
+Name: ["museu d'història de sabadell", "museu d'història de sabadell"]
+Adresse: ["sabadell"]
+Anderes: ["http://museus.sabadell.cat/museu-historia"]
+
+Name: ["centro de interpretación del tolmo de minateda"]
+Adresse: []
+Anderes: ["https://www.tolmodeminateda.es/"]
+
+Name: ["the box"]
+Adresse: []
+Anderes: ["https://www.theboxplymouth.com/"]
+
+Name: ["deutsches auswandererhaus"]
+Adresse: ["bremerhaven", "de"]
+Anderes: ["https://www.dah-bremerhaven.de/"]
+
+Name: ["colecção antónio cachola", "museu de arte contemporânea de elvas", "mace"]
+Adresse: []
+Anderes: ["http://www.col-antoniocachola.com/?page_id=2352&lang=pt", "https://col-antoniocachola.com/"]
+
+Name: ["bauhaus-archiv", "bauhaus archive"]
+Adresse: ["berlin", "de"]
+Anderes: ["+49 30 25400210", "+49 30 2540020", "https://www.bauhaus.de/", "https://denkmaldatenbank.berlin.de/daobj.php?obj_dok_nr=09050377"]
+
+Name: ["museo axel munthe", "villa san michele"]
+Adresse: []
+Anderes: ["https://www.villasanmichele.eu/"]
+
+Name: ["casa museu miguel torga", "casa-museu miguel torga"]
+Adresse: ["coimbra"]
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=6257889", "https://dre.pt/application/conteudo/130776860", "http://ensina.rtp.pt/artigo/casa-museu-miguel-torga/", "http://roteiromuseus.ccdrc.pt/museu_ficha.aspx?idmuseu=67&tipologia=6"]
+
+Name: ["kaviar factory"]
+Adresse: []
+Anderes: ["https://kaviarfactory.com/"]
+
+Name: []
+Adresse: []
+Anderes: ["https://www.ksta.de/region/rhein-sieg-bonn/siegburg/siegburg-kiosk-am-markt-wird-nach-langem-leerstand-wieder-genutzt-631017"]
+
+Name: ["dapdune wharf"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/river-wey-and-godalming-navigations-and-dapdune-wharf"]
+
+Name: ["choristers' hall medieval museum", "medieval museum"]
+Adresse: []
+Anderes: ["https://www.waterfordtreasures.com/"]
+
+Name: ["palácio braamcamp;edifício da biblioteca municipal", "casa-museu anselmo braamcamp freire"]
+Adresse: []
+Anderes: ["http://www.monumentos.gov.pt/site/app_pagesuser/sipa.aspx?id=6234", "http://museu.cm-santarem.pt/"]
+
+Name: ["museum of zoology"]
+Adresse: ["cambridge"]
+Anderes: ["https://www.museum.zoo.cam.ac.uk/"]
+
+Name: ["colección enaire de arte contemporáneo", "naves de gamazo", "q11682084"]
+Adresse: ["santander"]
+Anderes: ["https://www.navesdegamazo.com/"]
+
+Name: ["museum unter tage"]
+Adresse: ["bochum", "de"]
+Anderes: ["https://situation-kunst.de/mut/"]
+
+Name: ["glasmuseum weißwasser"]
+Adresse: ["weißwasser/o.l."]
+Anderes: ["https://glasmuseum-weisswasser.de/"]
+
+Name: ["museum für vor- und frühgeschichte"]
+Adresse: []
+Anderes: ["http://www.vorgeschichte.de/"]
+
+Name: ["cherryburn", "cherryburn - thomas bewick museum"]
+Adresse: ["mickley, stocksfield, northumberland"]
+Anderes: ["https://www.nationaltrust.org.uk/cherryburn"]
+
+Name: ["erweiterungsbaus für die präsentation der gegenwartskunst (gartenhallen)"]
+Adresse: []
+Anderes: ["https://miesarch.com/work/506;https://www.inexhibit.com/case-studies/frankfurt-stadel-art-museum-underground-extension/", "https://miesarch.com/work/506"]
+
+Name: ["hardanger folk museum"]
+Adresse: []
+Anderes: ["https://hardangerfolkemuseum.no/en/"]
+
+Name: ["z33 kunstcentrum", "z33 - house for contemporary art"]
+Adresse: ["hasselt"]
+Anderes: ["https://www.z33.be/"]
+
+Name: ["casa museu egas moniz;casa-museu egas moniz;casa do marinheiro", "casa-museu de egas moniz"]
+Adresse: ["avanca"]
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74894", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=652", "https://dre.pt/pdf1sdip/1997/12/301b00/68926903.pdf", "https://casamuseuegasmoniz.com/"]
+
+Name: ["galáctica -centro de difusión y práctica de la astronomía"]
+Adresse: []
+Anderes: ["https://galactica.org.es/"]
+
+Name: ["μουσείο ελληνικής παιδικής τέχνης", "museum of greek children’s art"]
+Adresse: ["αθήνα", "gr"]
+Anderes: ["contact@childrensartmuseum.gr", "2103312621 , 2103312750", "http://www.childrensartmuseum.gr/"]
+
+Name: ["museo del bonsai"]
+Adresse: []
+Anderes: ["https://villagonzalopedernales.burgos.es/instalaciones-y-servicios-publicos/museo-del-bonsai"]
+
+Name: ["museo e chiesa del carmine"]
+Adresse: []
+Anderes: ["datiopen.it - provincia regionale di trapani", "http://www.datiopen.it/it/data/musei_della_provincia_di_trapani"]
+
+Name: ["espazo caritel"]
+Adresse: ["foz"]
+Anderes: ["https://espazocaritel.com/"]
+
+Name: ["felix art & eco"]
+Adresse: []
+Anderes: ["https://felixart.org/"]
+
+Name: ["eastbury manor house"]
+Adresse: ["barking"]
+Anderes: ["https://www.nationaltrust.org.uk/visit/london/eastbury-manor-house#place-opening-times", "https://www.nationaltrust.org.uk/visit/london/eastbury-manor-house"]
+
+Name: ["esther stocker", "wandarbeit nr. 19"]
+Adresse: []
+Anderes: ["https://www.museum-joanneum.at/kioer/projekte/permanente-projekte/events/event/2003/esther-stocker"]
+
+Name: ["tain & district museum and clan ross centre"]
+Adresse: ["tain"]
+Anderes: ["https://www.tainmuseum.org.uk/"]
+
+Name: ["bredemeyers hof"]
+Adresse: ["goldenstedt", "de"]
+Anderes: ["https://www.von-doellen-stiftung.de/bredemeyers-hof"]
+
+Name: ["casa do poço", "arquivo-museu diocesano de lamego"]
+Adresse: ["lamego"]
+Anderes: ["https://diocese-lamego.pt/arquivo"]
+
+Name: ["carlyle's house"]
+Adresse: ["london"]
+Anderes: ["https://www.nationaltrust.org.uk/visit/london/carlyles-house#place-opening-times", "https://www.nationaltrust.org.uk/carlyles-house"]
+
+Name: []
+Adresse: ["sankt goar", "de"]
+Anderes: ["https://de.wikipedia.org/wiki/datei:puppenmuseum.jpg"]
+
+Name: ["kvekerhuset"]
+Adresse: []
+Anderes: ["https://photos.app.goo.gl/rqymc3p2sycnswle9", "https://www.visitnorway.no/listings/kvekerhuset-p%c3%a5-stakland/14396/", "https://norge.sandalsand.net/kvekerhuset-pa-stakland-i-tysvaer/"]
+
+Name: ["the twist"]
+Adresse: []
+Anderes: ["https://photos.app.goo.gl/ang9pbvrrk6benjr6", "https://youtu.be/bc_odjb6je0?t=2078", "https://youtu.be/-ngiut3z-aw", "https://www.kistefosmuseum.com/art/the-twist-gallery"]
+
+Name: ["museo de art déco y art nouveau casa lis"]
+Adresse: ["salamanca", "es"]
+Anderes: ["https://www.museocasalis.org/"]
+
+Name: ["künstlergarten wietzen"]
+Adresse: []
+Anderes: ["https://www.lichtenau.gv.at/kuenstlergarten_wietzen_des_akad_bildhauers_alfred_kurz_4"]
+
+Name: ["mmmac museo materiali minimi d’arte contemporanea"]
+Adresse: ["capaccio paestum"]
+Anderes: ["https://www.facebook.com/museommmac", "https://www.giornaledelcilento.it/il-nuovo-museo-mmmac-a-paestum-la-valorizzazione-dei-materiali-minimi-e-il-dialogo-tra-antico-e-contemporaneo/", "https://www.mmmac.it/"]
+
+Name: ["museo reina sofía", "museo nacional centro de arte reina sofía", "museo nacional centro de arte reina sofía", "q460889", "국립 소피아 왕비 예술센터(레이나 소피아 국립미술센터)"]
+Adresse: ["madrid"]
+Anderes: ["https://www.museoreinasofia.es/"]
+
+Name: ["casa memorială \"nicu enea\"", "\"nicu enea\" memorial house"]
+Adresse: ["bacău"]
+Anderes: ["http://date.gov.ro/dataset/ghidul-muzeelor-din-romania", "http://muzeuldeartabacau.wordpress.com/;http://www.facebook.com/muzeul.medias#!/casamemoriala.nicuenea?sk=photos"]
+
+Name: ["musée saharien"]
+Adresse: []
+Anderes: ["http://museesaharien.fr/"]
+
+Name: ["technisches denkmal alte ziegelei"]
+Adresse: ["haldensleben", "de"]
+Anderes: ["verwaltung@ziegelei-hundisburg.de", "+49 3904 42835", "https://www.ziegelei-hundisburg.de"]
+
+Name: ["migratiemuseummigration", "mmm"]
+Adresse: ["molenbeek-saint-jean - sint-jans-molenbeek"]
+Anderes: ["museum@foyer.be", "migratiemuseummigration", "migratie_museum_migration", "+32 2 609 55 61", "https://mmm.brussels/"]
+
+Name: ["museo teresa peña"]
+Adresse: []
+Anderes: ["http://museotp.com"]
+
+Name: ["museumshof colbitz"]
+Adresse: ["colbitz", "de"]
+Anderes: ["+49 39207 81272", "https://www.gemeinde-colbitz.de/pages/freizeit/museumshof.php"]
+
+Name: ["museo sannitico palazzo mazzarotta"]
+Adresse: ["campobasso", "it"]
+Anderes: ["https://www.musei.molise.beniculturali.it/musei?mid=208&nome=museo-sannitico"]
+
+Name: ["neverdal smeltehytte"]
+Adresse: []
+Anderes: ["https://photos.app.goo.gl/ug8urzgar7gcx9hp9", "https://digitaltmuseum.no/011013493409/neverdal-smeltehytte-ved-innset-i-rennebu-i-sor-trondelag-kulturminne-i"]
+
+Name: ["baracchetta faggioni"]
+Adresse: []
+Anderes: ["http://www.studiofaggioni.com/museo-baracca-faggioni.php?pag=3"]
+
+Name: []
+Adresse: []
+Anderes: ["https://www.magdeburg.de/index.php?modid=9&object=tx%7c37.6876.1&fid=698.1141.1&navid=37.657"]
+
+Name: ["planetariul baia mare", "planetarium"]
+Adresse: ["baia mare"]
+Anderes: ["https://planetariubm.ro/"]
+
+Name: ["faith museum"]
+Adresse: []
+Anderes: ["https://aucklandproject.org/venues/faith-museum/"]
+
+Name: ["mindways 3d trick art"]
+Adresse: ["hamburg", "de"]
+Anderes: ["https://www.3dtrickart.de/"]
+
+Name: ["york castle museum"]
+Adresse: ["york"]
+Anderes: ["https://www.yorkcastlemuseum.org.uk/"]
+
+Name: ["mr straw's house"]
+Adresse: ["worksop"]
+Anderes: ["https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/mr-straws-house"]
+
+Name: ["kunst würfel", "kunst würfel"]
+Adresse: ["bischofsheim"]
+Anderes: ["https://kunst-wuerfel.de/"]
+
+Name: ["centro de interpretación de la seda"]
+Adresse: []
+Anderes: ["https://www.turgranada.es/fichas/centro-de-interpretacion-de-la-seda/"]
+
+Name: ["casino nobile"]
+Adresse: ["roma"]
+Anderes: ["https://www.museivillatorlonia.it/it/il_museo/editoriale"]
+
+Name: ["музей ремёсел"]
+Adresse: ["одоев"]
+Anderes: ["https://www.culture.ru/institutes/51578/muzei-remesel-v-p-odoev"]
+
+Name: ["belle-époquecentrum", "belle epoque centrum"]
+Adresse: []
+Anderes: ["https://www.facebook.com/belleepoquecentrum/", "https://www.instagram.com/belleepoquecentrum/", "https://www.belleepoquecentrum.be/"]
+
+Name: ["núcleo museológico do contrabando"]
+Adresse: []
+Anderes: ["https://www.cm-vvrodao.pt/descobrir/pontos-de-interesse/nucleo-museologico-o-contrabando-perais.aspx"]
+
+Name: ["museu municipal carlos reis"]
+Adresse: []
+Anderes: ["https://museu.cm-torresnovas.pt"]
+
+Name: ["rosegger-museum"]
+Adresse: []
+Anderes: ["info-rosegger@museum-joanneum.at", "https://www.museum-joanneum.at/peter-rosegger/ausstellungen/krieglach/events/event/48/rosegger-museum-krieglach-wem-gehoert-der-grossglockner"]
+
+Name: ["blaise hamlet"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/visit/bath-bristol/blaise-hamlet"]
+
+Name: ["gnration"]
+Adresse: []
+Anderes: ["info@gnration.pt", "+351 253 142 200", "https://www.gnration.pt", "https://www.gnration.pt/bilheteira/#horarios"]
+
+Name: ["back to backs"]
+Adresse: []
+Anderes: ["https://www.nationaltrust.org.uk/birmingham-back-to-backs"]
+
+Name: ["museo giacomo bergomi"]
+Adresse: ["montichiari"]
+Anderes: ["https://www.montichiarimusei.it/en/museum/bergomi-museum/"]
+
+Name: ["dorfmuseum markersdorf"]
+Adresse: ["markersdorf"]
+Anderes: ["https://commons.wikimedia.org/wiki/file:dorfmuseum_markersdorf_(januar_2017).jpg", "https://museum-oberlausitz.de/", "https://markersdorf.de/institution/dorfmuseum-markersdorf"]
+
+Name: ["mémorial de la bataille de festubert du 15e bataillon canadien", "canadian 15ᵗʰ battalion battle of festubert memorial", "mémorial de la bataille de festubert du 15ᵉ bataillon canadien"]
+Adresse: []
+Anderes: ["https://museum.48thhighlanders.ca/wp-content/uploads/2022/03/festubert-memorial.jpg", "https://15thbattalioncef.ca/commemoration/project-memorial-summary/project-memorials-4/"]
+
+Name: ["royal hospital kilmainham", "imma", "irish museum of modern art", "irish museum of modern art", "áras nua-ealaíne na héireann"]
+Adresse: ["dublin"]
+Anderes: ["https://imma.ie/"]
+
+Name: ["rundweg 7"]
+Adresse: []
+Anderes: ["https://www.schmalkalden.com/natur-aktiv/wandern/museumsrundweg-14-km/"]
+
+Name: ["augustinermuseum"]
+Adresse: ["freiburg im breisgau"]
+Anderes: ["mäckler architekten, frankfurt (umbau und generalsanierung 2020) - www.chm.de", "https://www.freiburg.de/pb/,lde/237748.html", "maps4bw (lgl, www.lgl-bw.de)", "https://www.freiburg.de/pb/,lde/265394.html"]
+
+Name: ["kunsthistorisches museum", "uměleckohistorické muzeum", "kunsthistorisches museum", "museum of art history", "museo de historia del arte", "musée des beaux arts", "美術史博物館", "빈 미술사 박물관", "художественно-исторический музей", "艺术历史博物馆"]
+Adresse: ["wien", "at"]
+Anderes: ["http://www.khm.at"]
+
+Name: ["residenzschloss dresden", "дрэздэнскі замак-рэзідэнцыя", "residenzschloss dresden", "dresden castle", "palacio de dresde", "château de la résidence de dresde", "дрезденский замок-резиденция"]
+Adresse: []
+Anderes: ["http://www.skd.museum/de/museen-institutionen/residenzschloss/"]
+
+Name: ["schweriner schloss", "schwerin castle", "castillo de schwerin", "château de schwerin", "castello di schwerin", "šverino pilis", "kasteel van schwerin", "zamek w schwerinie", "шверинский замок"]
+Adresse: ["schwerin"]
+Anderes: ["https://www.schwerin.de/kultur-tourismus/sehenswuerdigkeiten/schloss-schwerin/schlossfuehrungen/"]
+
+Name: ["grassimuseum"]
+Adresse: ["leipzig", "de"]
+Anderes: ["http://www.grassimuseum.de/"]
+
+Name: ["národní muzeum", "nationalmuseum", "national museum", "nacia muzeo", "museo nacional", "musée national", "nemzeti múzeum", "nationaal museum", "museu nacional", "национальный музей", "národné múzeum", "nationalmuseet", "національний музей", "国家博物馆", "vlastenecké muzeum"]
+Adresse: ["praha"]
+Anderes: ["http://www.nm.cz", "http://www.nm.cz", "http://www.nm.cz/index.php?xset=lang&xlang=2"]
+
+Name: ["niedersächsisches landesmuseum", "музей земли нижняя саксония"]
+Adresse: ["hannover", "de"]
+Anderes: ["https://www.facebook.com/landesmuseum.hannover", "landesmuseum_hannover", "+49 511 9807686", "@weltenmuseum", "https://www.youtube.com/user/landesmuseumhannover", "https://www.landesmuseum-hannover.niedersachsen.de/"]
+
+Name: ["neues museum - staatliches museum für kunst und design in nürnberg"]
+Adresse: []
+Anderes: ["https://www.nmn.de/"]
+
+Name: ["zamek królewski", "каралеўскі замак", "královský hrad", "kongeslottet", "königsschloss", "royal castle", "reĝa kastelo", "castillo real", "palais royal", "castello reale", "바르샤바 왕궁", "kongeslottet", "zamek królewski", "castelo real", "королевский замок"]
+Adresse: ["warszawa", "0918123"]
+Anderes: ["mapa.um.warszawa.pl", "https://www.zamek-krolewski.pl/"]
+
+Name: ["deutsches hygiene-museum", "german hygiene museum"]
+Adresse: ["dresden", "de"]
+Anderes: ["https://commons.wikimedia.org/wiki/file%3adeutsches_hygienemuseum%2c_mit_plastik_ballwerfer_von_richard_daniel_fabricius-9716.jpg", "http://www.dhmd.de", "https://www.dhmd.de"]
+
+Name: ["петропавловская крепость", "петропавловска крепост", "fortalesa de sant pere i sant pau", "peter-und-paul-festung", "peter and paul fortress", "petropaŭla fortikaĵo", "fortaleza de san pedro y san pablo", "pietari-paavalin linnoitus", "forteresse pierre-et-paul", "מבצר פטרופבלובסקיה", "fortezza di pietro e paolo", "ペトロパヴロフスク要塞", "პეტრე-პავლეს ციხესიმაგრე", "페트로파블롭스크 요새", "petropavlovsko tvirtovė", "petrus- en paulusvesting", "peter-paulus-festningen", "пётр æмæ павелы гæнах", "twierdza pietropawłowska", "fortaleza de são pedro e são paulo", "петропавловская крепость", "петропавловска тврђава", "peter-paulfästningen", "петропавлівська фортеця", "pháo đài thánh phêrô và phaolô", "彼得保罗要塞"]
+Adresse: []
+Anderes: ["https://www.spbmuseum.ru/themuseum/museum_complex/peterpaul_fortress/"]
+
+Name: ["glyptothek", "glyptothek", "gliptoteca", "мюнхенская глиптотека"]
+Adresse: ["münchen"]
+Anderes: ["https://www.antike-am-koenigsplatz.mwn.de/index.php/de/glyptothek"]
+
+Name: ["lacock abbey"]
+Adresse: []
+Anderes: ["lacockabbey@nationaltrust.org.uk", "https://www.nationaltrust.org.uk/lacock-abbey-fox-talbot-museum-and-village"]
+
+Name: ["schloss jever"]
+Adresse: ["jever", "de"]
+Anderes: ["http://upload.wikimedia.org/wikipedia/commons/6/60/slot_van_jever.jpg", "https://www.schlossmuseum.de/"]
+
+Name: ["особняк румянцева", "rumyantsev mansion", "дом н.\u{a0}п.\u{a0}румянцева (е.\u{a0}л.\u{a0}кочубея)"]
+Adresse: []
+Anderes: ["https://vk.com/club31752242", "https://www.spbmuseum.ru/themuseum/museum_complex/rumyantsev_mansion/"]
+
+Name: ["государственный музей истории санкт-петербурга", "staatliches museum für die geschichte von st. petersburg", "state museum of the history of saint petersburg", "musée d'état de l'histoire de saint-pétersbourg", "государственный музей истории санкт-петербурга", "国家历史博物馆的圣彼得堡"]
+Adresse: []
+Anderes: ["https://www.spbmuseum.ru/", "https://www.spbmuseum.ru/?lang_ui=en", "https://www.spbmuseum.ru/"]
+
+Name: ["museotysen", "museo thyssen-bornemisza", "q176251", "티센 보르네미사 미술관", "common knowledge"]
+Adresse: ["madrid"]
+Anderes: ["https://www.museothyssen.org/"]
+
+Name: ["gemaldegalerie", "gemäldegalerie am kulturforum", "картинная галерея"]
+Adresse: []
+Anderes: ["die gemäldegalerie bietet führungen für blinde und sehgeschädigte an. siehe http://www.absv.de/freizeit/auge.htm .", "https://www.smb.museum/museen-einrichtungen/gemaeldegalerie/home/"]
+
+Name: ["palazzo barberini"]
+Adresse: []
+Anderes: ["https://www.barberinicorsini.org"]
+
+Name: ["museum für angewandte kunst", "museum für angewandte kunst", "museum of applied art", "musée des arts appliqués"]
+Adresse: ["köln", "de"]
+Anderes: ["https://commons.wikimedia.org/wiki/file:museum_f%c3%bcr_angewandte_kunst_k%c3%b6ln_-_schild_am_eingang_%287107-09%29.jpg", "https://makk.de/"]
+
+Name: ["plantin-moretusmuseum", "مجموعة دار نشر-محترف-متحف بلانتان موريتوس", "plantin-moretus house-workshops-museum complex", "casa, talleres y museo plantin-moretus", "complexe maison-ateliers-musée plantin-moretus", "музейный комплекс издательства и типографии плантен-моретюс", "帕拉丁莫瑞图斯工场－博物馆建筑群"]
+Adresse: ["antwerpen"]
+Anderes: ["https://whc.unesco.org/en/list/1185", "https://commons.wikimedia.org/wiki/file:museum_plantin-moretus_17.jpg", "https://www.museumplantinmoretus.be/"]
+
+Name: ["humboldt forum", "berliner schloss", "berliner stadtschloss"]
+Adresse: ["berlin"]
+Anderes: ["https://www.humboldtforum.org/de/stiftung-humboldt-forum-im-berliner-schloss/", "https://photos.app.goo.gl/nbnht1jh7tng68w4a", "https://youtu.be/66hohhf-bfs"]
+
+Name: ["herzog anton ulrich-museum"]
+Adresse: ["braunschweig", "de"]
+Anderes: ["https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum"]
+
+Name: ["archäologische staatssammlung"]
+Adresse: ["münchen", "de"]
+Anderes: ["http://www.archaeologie-bayern.de/"]
+
+Name: ["museo de américa"]
+Adresse: ["madrid"]
+Anderes: ["https://www.madrid.es", "https://www.culturaydeporte.gob.es/museodeamerica"]
+
+Name: ["museo nacional de artes decorativas", "q5361303", "национальный музей декоративного искусства"]
+Adresse: ["madrid", "es"]
+Anderes: ["https://www.madrid.es", "https://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010vgnvcm100000dc0ca8c0rcrd&vgnextoid=287079262ef5d010vgnvcm1000000b205a0arcrd"]
+
+Name: ["musac - museo de arte contemporáneo de castilla y león"]
+Adresse: []
+Anderes: ["https://musac.es/"]
+
+Name: ["küstenschutz route husum"]
+Adresse: []
+Anderes: ["https://www.kuestenschutz-route.de/"]
+
+Name: ["edifício e igreja da santa casa da misericórdia do porto", "museu e igreja da misericórdia do porto", "misericórdia do porto museum and church", "museo e iglesia de la misericordia de oporto", "mipo"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74505", "http://www.monumentos.gov.pt/site/app_pagesuser/sipa.aspx?id=5553"]
+
+Name: ["weltmuseum", "völkerkundemuseum", "museum of ethnology"]
+Adresse: ["wien", "at"]
+Anderes: ["https://www.weltmuseumwien.at/"]
+
+Name: ["мемориальный музей-лицей а.\u{a0}с.\u{a0}пушкина", "mémorial musée — lycée a.s. pouchkine", "叶卡捷琳娜宫", "лицей"]
+Adresse: ["пушкин"]
+Anderes: ["http://www.museumpushkin.ru"]
+
+Name: ["卢浮宫", "palais du louvre", "louvre", "louvre palace", "palazzo del louvre", "ルーブル美術館", "luwr", "лувр", "卢浮宫博物馆"]
+Adresse: ["paris"]
+Anderes: ["http://upload.wikimedia.org/wikipedia/commons/6/66/louvre_museum_wikimedia_commons.jpg", "https://photos.app.goo.gl/nvwhquj2hyqyl2jr5", "http://upload.wikimedia.org/wikipedia/commons/d/d2/jardin_du_carrousel.jpg", "https://www.louvre.fr/"]
+
+Name: ["palácio nacional da ajuda", "paço da ajuda", "palacio_ajuda", "palácio nacional da ajuda", "королевский дворец ажуда", "cicl"]
+Adresse: ["lisboa"]
+Anderes: ["geral@pnajuda.dgpc.pt", "+351 213 648 223", "+351 213 637 095;+351 213 620 264", "www.palacioajuda.gov.pt", "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70252", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=4722", "dadosabertos.cm-lisboa.pt", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf", "http://www.palacioajuda.gov.pt/"]
+
+Name: ["paço dos bispos de viseu;paço dos três escalões;edifício do seminário", "museu nacional grão vasco"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70674", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=3800", "http://dre.pt/pdf1sdip/1924/07/17100/10341034.pdf", "http://www.museunacionalgraovasco.gov.pt/"]
+
+Name: ["museu militar de bragança;castelo e cerca urbana de bragança", "castelo de bragança"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=71125", "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2136237", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=5158", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf", "https://www.exercito.pt/pt/quem-somos/organizacao/ceme/vceme/dhcm/bragança"]
+
+Name: ["mosteiro de lorvão"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70694", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=1598", "http://www.igespar.pt/media/uploads/decsmaria/decreto23_06_1910.pdf"]
+
+Name: ["capela de nossa senhora das salas;ermida de nossa senhora das salas;igreja e tesouro de nossa senhora das salas", "capela de nossa senhora das salvas"]
+Adresse: []
+Anderes: ["https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70637", "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=54977", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=2137", "http://www.dre.pt/pdf1s/1922/11/24800/14151415.pdf", "https://www.sines.pt/pages/700"]
+
+Name: ["palatul brukenthal", "palais brukenthal", "palais brukenthal", "palatul brukenthal"]
+Adresse: ["sibiu"]
+Anderes: ["http://www.brukenthalmuseum.ro/"]
+
+Name: ["maack – museo all'aperto d'arte contemporanea kalenarte"]
+Adresse: []
+Anderes: ["https://www.facebook.com/kalenarte.maack/", "https://www.kalenartemaack.com/"]
+
+Name: ["maison et jardins de claude monet"]
+Adresse: []
+Anderes: ["https://fondation-monet.com/"]
+
+Name: ["deutsches museum", "deitsches museum", "deutsches museum", "museo alemán", "немецкий музей", "deutsches museum von meisterwerken der naturwissenschaft und technik", "deutsches museum von meisterwerken der naturwissenschaft und technik", "немецкий музей достижений естественных наук и техники"]
+Adresse: ["münchen", "de"]
+Anderes: ["+49 89 2179-324", "+49 89 2179-1", "https://www.deutsches-museum.de/", "https://www.youtube.com/@deutschesmuseum", "https://photos.google.com/share/af1qipm_wgatazpermsr_fuyyjh9l-j9yb_s16s5rak8xxbirqn0wykjth8ehjbf_dpjfa/photo/af1qipmhbmcvrg_ojvpxgc2styhx3kuq9eknzivdj5-k?key=qnpkx1dta2hinkvrcehmvuc4vhm5t1rnzwxaqjlb"]
+
+Name: ["palácio alvor-pombal", "convento de santo alberto", "museu nacional de arte antiga", "nationalmuseum für alte kunst", "national museum of ancient art", "museo nacional de arte antiguo", "musée national des arts antiques", "museo nazionale di arte antica", "nationaal museum voor oude kunst", "национальный музей древнего искусства", "palácio alvor", "mnaa"]
+Adresse: ["lisboa"]
+Anderes: ["geral@mnaa.dgpc.pt", "+351 213 912 800", "http://museudearteantiga.pt", "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73649", "http://monumentos.pt/site/app_pagesuser/sipa.aspx?id=3153", "http://www.dre.pt/pdf1s/1971/11/27400/17981799.pdf", "www.museudearteantiga.pt"]
+
+Name: ["the queen's house", "queen's house", "queen's house", "王后行宫"]
+Adresse: ["london"]
+Anderes: ["https://historicengland.org.uk/listing/the-list/list-entry/1211481", "https://www.rmg.co.uk/queens-house"]
+
+Name: ["mvg-museum-shuttle o7: giesing bahnhof => mvg-museum"]
+Adresse: []
+Anderes: ["http://wiki.openstreetmap.org/wiki/münchen/transportation#stadtbus", "https://www.mvv-muenchen.de/"]
+
+Name: ["ruínas do teatro romano;ruínas do teatro romano dedicado a nero;museu de lisboa;teatro romano", "museo do teatro romano", "museu do teatro romano", "roman theatre museum", "teatro romano de lisboa"]
+Adresse: ["lisboa"]
+Anderes: ["info@museudelisboa.pt", "+351 217 513 200", "www.museudelisboa.pt", "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69753", "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=56047", "http://www.monumentos.gov.pt/site/app_pagesuser/sipa.aspx?id=3110", "dadosabertos.cm-lisboa.pt"]
+
+Name: ["utzon center", "utzon center"]
+Adresse: []
+Anderes: ["https://utzoncenter.dk/"]
+
+Name: ["franziskanermuseum"]
+Adresse: ["villingen-schwenningen", "de"]
+Anderes: ["https://www.tripadvisor.de/attraction_review-g198540-d10806640-reviews-franziskanermuseum-villingen_schwenningen_baden_wurttemberg.html", "https://lh3.ggpht.com/p/af1qipo4zkwt2amxliu7hp5yzspvtqxdroq4bpwbromd=s1536", "https://www.villingen-schwenningen.de"]
+
