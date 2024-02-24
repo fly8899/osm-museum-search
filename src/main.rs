@@ -74,7 +74,7 @@ async fn parse_osm() -> Result<()> {
 
     let mut results: Vec<Result<Result<(), Error>, JoinError>> = Vec::new();
 
-    for handle in handles {
+    for handle in handles.into_iter() {
         results.push(handle.await);
     }
 
