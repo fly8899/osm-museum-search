@@ -185,7 +185,7 @@ impl Museum {
             }
         }
 
-        false
+        return false;
     }
 }
 
